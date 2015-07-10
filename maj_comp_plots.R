@@ -1,5 +1,5 @@
 ## set the working directory
-setwd("C://users/pawlusm/Desktop")
+setwd("C://users/pawlusm/Desktop/decTree/mokan/giving_by_major_comparison")
 
 ## create a data frame from a report with the following four columns
 #### ID, engagement score, major, fiscal year giving total

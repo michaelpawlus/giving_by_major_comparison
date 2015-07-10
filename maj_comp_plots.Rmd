@@ -7,14 +7,48 @@ output: html_document
 
 ### Looking at Giving Trends by Major
 
+To perform this analysis, you will need a csv file with the unique IDs for your alumni as well as their majors and if they are a donor or not as a binary variable (1 or 0).  You can also add in any other variables that you want to include.
+
+First, load the ggplot2 library (use install.packages("ggplot2") if you don't have this package yet.  We will use this for plotting.  Also, set the working directory to the folder where this csv file is located:
+
 ```{r}
-summary(cars)
+library(ggplot2)
+setwd("C://users/pawlusm/Desktop/decTree/mokan/giving_by_major_comparison")
 ```
 
-You can also embed plots, for example:
+Then, read the file into R:
 
-```{r, echo=FALSE}
-plot(cars)
+```{r}
+ad <- read.csv("alum_donor_factors_no_names.csv")
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Use the summary function to look for any outliers:
+
+```{r}
+summary(ad)     ## summary of the data
+```
+
+I want to use affinity score or engagement score for my x-axis to see the impact of affinity on giving so I am going to trim my dataset so that I don't get heavily skewed results from outliers and also to improve readability.
+
+```{r}
+ad2 <- ad[ad$aff_total<16,]
+```
+
+Next, let's create a table of all the majors in the dataset to see which ones have the most representations and then pull a top ten list.
+
+```{r}
+maj_tbl <- aggregate(coreid ~ Major, data = ad2, length)
+head(maj_tbl[order(-maj_tbl$coreid),], n= 10)
+```
+
+From this table,  pull a few majors to compare.  I will select three.
+
+```{r}
+ad4 <- ad2[ad2$Major %in% c("Accounting","Nursing","Psychology"),]
+```
+
+Then, use a faceted plot to compare giving between majors as well as the relative impact of engagement.
+
+```{r}
+qplot(aff_total, log10(fy14), data = ad4, color = Major, facets=~Major) + stat_smooth(method="lm")
+```
