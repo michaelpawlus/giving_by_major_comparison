@@ -1,0 +1,20 @@
+---
+title: "Giving By Major"
+author: "Michael Pawlus"
+date: "Friday, July 10, 2015"
+output: html_document
+---
+
+### Looking at Giving Trends by Major
+
+```{r}
+summary(cars)
+```
+
+You can also embed plots, for example:
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

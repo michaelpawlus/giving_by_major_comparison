@@ -1,0 +1,2879 @@
+coreid,aff_total,coresex,coreprefyr,Degree,Major,fy14,donor
+1923,11,F,2007,MS    ,Communications,100,1
+8266,24,M,1988,BBA   ,Accounting,25,1
+14743,26,F,2012,BA    ,English Language and Literature,8100,1
+36748,82,F,1972,BA    ,Political Science,2000,1
+39842,2,F,2000,MED   ,General Education,20,1
+41332,6,F,2007,BS    ,Legal Studies,50,1
+62362,4,F,2005,MPA   ,Public Administration,25,1
+68219,31,M,2006,MPA   ,Public Administration,100,1
+70742,4,M,2005,BA    ,English Language and Literature,100,1
+77259,28,M,2014,MPA   ,Public Administration,510,1
+83514,17,M,1970,BPH   ,Environmental Studies,500,1
+83549,10,F,1967,BA    ,English Language and Literature,25,1
+83577,7,M,1975,BS    ,Physical Education,100,1
+83586,17,M,1973,BS    ,GRP SS Hist,250,1
+83622,4,M,1973,BS    ,Biology,20,1
+83636,19,F,1971,BS    ,Psychology,2000,1
+83643,26,M,1974,BS    ,Geology,300,1
+83698,4,F,1973,BS    ,Biology,50,1
+83705,11,M,1970,BS    ,Physical Education,250,1
+83706,8,M,1977,BS    ,Mathematics,250,1
+83709,11,M,1970,BS    ,Chemistry,750,1
+83719,11,M,1969,BA    ,GRO Soc Science,200,1
+83740,8,F,1970,BS    ,Sociology,50,1
+83749,10,M,1973,BS    ,Chemistry,25,1
+83763,10,M,1972,BA    ,History,25,1
+83813,15,F,1975,BS    ,Physical Education,2000,1
+83887,11,M,1971,BS    ,Physics,250,1
+83894,13,M,1975,BA    ,French,750,1
+83982,4,F,1971,BA    ,GRO Soc Science,25,1
+83992,5,M,1978,BS    ,Political Science,500,1
+84013,3,F,1968,BS    ,GRP SS Hist,100,1
+84033,20,M,1967,BA    ,History,100,1
+84057,2,M,1968,BA    ,Biology,600,1
+84082,4,M,1967,BS    ,Biology,1000,1
+84083,19,F,1972,BA    ,Art,4500,1
+84105,11,F,1968,BA    ,English Language and Literature,100,1
+84153,19,M,1970,BS    ,Geology,1000,1
+84154,60,F,1967,BA    ,GRO Soc Science,21000,1
+84160,8,M,1969,BA    ,Economics,100,1
+84167,3,M,1968,BA    ,English Language and Literature,30,1
+84210,6,M,1968,BA    ,GRO Soc Science,360,1
+84212,4,M,1970,BS    ,Sociology,100,1
+84243,13,F,1973,BA    ,Art,2775.96,1
+84285,5,F,1972,BA    ,English Language and Literature,55,1
+84326,8,M,1967,BA    ,GRO Soc Science,30,1
+84340,6,M,1972,BS    ,Health Science,100,1
+84343,6,M,1974,BA    ,English Language and Literature,100,1
+84355,59,M,1978,BBA   ,Business General,500,1
+84390,2,M,1976,BS    ,Political Science,25,1
+84393,16,M,1976,BS    ,Public Administration,100,1
+84395,7,F,1971,BS    ,Group SS Soc,50,1
+84414,9,M,1971,BS    ,Group SS Soc,50,1
+84429,5,F,1973,BS    ,Biology,20,1
+84440,14,M,1977,BS    ,GRP SS Hist,350,1
+84461,12,M,1967,BS    ,GRO Soc Science,50,1
+84514,9,M,1970,BS    ,Anthropology,200,1
+84538,10,F,1974,MED   ,General Education,25,1
+84566,13,M,1971,BBA   ,Business General,500,1
+84584,16,F,1971,BS    ,Anthropology,400,1
+84585,8,M,1976,BPH   ,Environmental Studies,100,1
+84600,15,F,1967,BA    ,History,100,1
+84613,6,F,1982,BS    ,Sociology,100,1
+84625,64,M,1969,BS    ,Group Social Studies,900,1
+84635,5,F,1975,BS    ,Political Science,100,1
+84646,15,F,1975,BS    ,Sociology,100,1
+84652,7,M,1975,MPA   ,Public Administration,500,1
+84679,4,M,1971,BS    ,Political Science,100,1
+84723,5,M,1974,BS    ,Physical Education,50,1
+84724,8,F,1969,BS    ,Group Science,25,1
+84728,85,M,1969,BS    ,GRO Soc Science,60,1
+84800,76,M,1968,BA    ,Mathematics,21000,1
+84838,1,F,1970,BS    ,Group SS Soc,10,1
+84867,7,F,1994,BS    ,Therapeutic Recreation,15,1
+84869,3,M,1984,MBA   ,Finance,25,1
+84936,13,M,1968,BS    ,Chemistry,600,1
+84938,2,M,1969,BS    ,Group Science,50,1
+84953,8,M,1968,BA    ,Psychology,50,1
+84965,4,F,1972,BS    ,Group SS Soc,25,1
+84966,12,M,1974,hdltrs,,500,1
+84985,60,M,1973,BA    ,Psychology,600,1
+84992,9,F,1972,BA    ,History,60,1
+84997,8,F,1971,BA    ,Group SS Soc,50,1
+85001,13,M,1977,BS    ,GRP SS Hist,300,1
+85017,8,F,1991,MED   ,Special Education,400,1
+85026,63,F,1969,BS    ,GRO Soc Science,550,1
+85029,12,M,1974,BS    ,Group SS Soc,250,1
+85048,12,F,1973,BA    ,English Language and Literature,600,1
+85080,13,F,1971,BS    ,GRO Soc Science,500,1
+85086,12,F,1968,BA    ,German,650,1
+85090,4,M,1972,BS    ,Public Administration,50,1
+85093,14,M,1991,BS    ,Industrial Technology,100,1
+85096,15,F,1968,BA    ,English Language and Literature,100,1
+85147,9,M,1986,BBA   ,Business General,150,1
+85201,16,M,1976,BS    ,Environmental Studies,250,1
+85272,5,F,1977,BS    ,Social Relations,50,1
+85284,9,F,1990,BS    ,Chemistry,50,1
+85294,10,F,1986,BS    ,Advertising & Public Relations,1450,1
+85325,14,M,1973,BS    ,Group SS Soc,100,1
+85350,5,F,1973,BA    ,Anthropology,100,1
+85353,13,M,1974,BS    ,Physical Education,350,1
+85361,6,F,1975,BS    ,Group SS Soc,200,1
+85431,7,M,1968,BA    ,GRO Soc Science,650,1
+85462,30,M,1977,BS    ,Health Science,50,1
+85491,15,F,1972,BA    ,German,600,1
+85496,17,M,1969,BS    ,GRO Soc Science,600,1
+85512,7,M,1975,BPH   ,Environmental Studies,50,1
+85536,11,M,1967,BA    ,History,50,1
+85545,2,M,1974,BS    ,GRP SCI Chem,250,1
+85549,7,M,1970,BS    ,Environmental Studies,100,1
+85573,9,M,1974,BA    ,Psychology,50,1
+85576,11,M,1976,MBA   ,Business General,125,1
+85589,14,M,1974,BS    ,Physical Education,250,1
+85605,13,M,1967,BA    ,Economics,250,1
+85606,20,M,1968,BS    ,Chemistry,5000,1
+85657,8,M,1974,BS    ,Public Administration,200,1
+85659,4,F,1973,BS    ,GRP SS Psych,50,1
+85660,5,F,1975,BS    ,Medical Technology,100,1
+85745,7,F,1986,BA    ,English Language and Literature,100,1
+85756,8,M,1971,BS    ,GRO Soc Science,50,1
+85766,102,F,1967,BA    ,Group Science,1850,1
+85782,9,M,1973,BS    ,GRP SS Econ,200,1
+85808,4,M,1969,BS    ,Medical Technology,50,1
+85838,9,M,1975,BBA   ,Business General,2003.21,1
+85844,18,M,1973,BBA   ,Business General,200,1
+85876,16,M,1973,BA    ,German,2150,1
+85906,23,M,1972,BS    ,Biology,100,1
+85907,10,M,1976,BS    ,Mathematics,100,1
+85909,7,M,1976,BS    ,Political Science,500,1
+85935,10,M,1974,BS    ,Economics,150,1
+85993,5,M,1972,BS    ,Group SS Soc,50,1
+85996,6,M,1969,BBA   ,Economics,50,1
+86026,9,M,1968,BS    ,Behavioral Science,200,1
+86058,19,M,1967,BA    ,Mathematics,1500,1
+86065,1,M,1977,BS    ,Geology,175,1
+86077,8,M,1972,MBA   ,Finance,50,1
+86159,17,M,1968,BS    ,Mathematics,300,1
+86160,15,F,1969,BA    ,Group SCI Math,300,1
+86163,11,M,1976,MED   ,Special Education,50,1
+86218,4,M,1976,MBA   ,Finance,25,1
+86228,8,M,1974,BA    ,History,165,1
+86236,10,M,1967,BA    ,Political Science,100,1
+86241,9,F,1968,BA    ,Mathematics,100,1
+86256,10,F,1976,BS    ,Physical Education,100,1
+86267,11,F,1972,BS    ,Mathematics,1000,1
+86278,3,F,1975,BPH   ,Environmental Studies,30,1
+86280,8,F,1978,BS    ,Nursing,100,1
+86294,5,M,1970,BS    ,Psychology,30,1
+86302,8,M,1970,BS    ,GRO Soc Science,50,1
+86306,5,M,1974,BS    ,Physical Education,200,1
+86307,4,F,1976,BA    ,Mathematics,50,1
+86311,10,M,1978,MED   ,General Education,600,1
+86319,5,M,1971,BS    ,Economics,25,1
+86330,7,M,1970,BS    ,Mathematics,1000,1
+86347,21,M,1975,BS    ,History,1200,1
+86353,10,F,1972,BS    ,GRP SCI Biology,25,1
+86401,6,M,1975,BBA   ,Business General,100,1
+86408,9,F,1971,BS    ,Physical Education,200,1
+86475,11,F,1975,BA    ,Chemistry,150,1
+86479,14,M,1972,BS    ,Health Science,500,1
+86484,3,F,1968,BS    ,GRO Soc Science,50,1
+86487,6,F,1975,BS    ,Art,50,1
+86493,8,M,1973,BS    ,Accounting,50,1
+86515,10,M,1976,BS    ,Chemistry,600,1
+86517,40,M,1968,BA    ,German,600,1
+86543,7,M,1973,BBA   ,Business General,100,1
+86567,7,M,1976,BS    ,Biology,150,1
+86573,11,M,1970,MBA   ,Accounting,25,1
+86576,12,M,1967,BA    ,Economics,500,1
+86615,12,M,1975,BS    ,Biomedical Communications,100,1
+86623,9,F,1975,BS    ,Group SS Soc,250,1
+86641,1,M,1975,BBA   ,Accounting,100,1
+86643,18,M,1973,BS    ,Physical Education,300,1
+86646,7,F,1974,BS    ,Group SS Soc,350,1
+86653,6,M,1967,BA    ,GRP SS Hist,25,1
+86655,12,M,1969,BA    ,English Language and Literature,100,1
+86692,10,F,1972,BS    ,Behavioral Science,25,1
+86730,12,M,1970,BS    ,Mathematics,100,1
+86731,9,F,1971,BA    ,French,100,1
+86748,4,M,1977,BS    ,Criminal Justice,50,1
+86800,9,F,1971,BA    ,Spanish,100,1
+86830,7,F,1969,BA    ,GRO Soc Science,100,1
+86850,6,F,1973,BS    ,Group SS Soc,100,1
+86855,8,F,1971,BA    ,Mathematics,250,1
+86861,10,F,1967,BA    ,German,50,1
+86867,10,M,1973,BS    ,GRP SCI Chem,520,1
+86878,9,M,1972,BS    ,Sociology,600,1
+86900,14,F,1968,BA    ,GRO Soc Science,500,1
+86910,10,M,1974,BS    ,Physical Education,50,1
+86914,17,M,1972,BA    ,Group SS Soc,400,1
+86918,32,M,1973,BS    ,Mathematics,1500,1
+86920,1,M,1968,BS    ,Sociology,450,1
+86954,8,F,1973,BS    ,Medical Technology,25,1
+86956,1,F,1973,BS    ,GRP SCI Geology,50,1
+86961,17,M,1974,BBA   ,Accounting,1500,1
+86983,7,M,1973,BS    ,Anthropology,100,1
+86994,10,M,1980,BS    ,Geology,100,1
+87046,9,M,1974,BS    ,Group SS Soc,100,1
+87066,15,F,1967,BA    ,GRO Soc Science,2100,1
+87098,17,F,1973,BAS   ,English Language and Literature,1570,1
+87099,7,M,1969,MBA   ,Psychology,50,1
+87100,12,F,1977,BBA   ,Management,100,1
+87136,8,M,1968,BA    ,Sociology,100,1
+87176,7,F,1968,BA    ,Sociology,100,1
+87211,5,M,1975,BS    ,Public Administration,100,1
+87242,17,M,1973,BA    ,English Language and Literature,600,1
+87248,6,M,1973,BA    ,Political Science,1,1
+87256,28,M,1967,BA    ,Political Science,2100,1
+87309,37,M,1967,BS    ,Economics,500,1
+87318,5,F,1972,BS    ,Physical Education,75,1
+87340,10,F,1974,BS    ,Physical Education,100,1
+87383,10,F,1974,BS    ,Physical Education,200,1
+87386,19,M,1975,BBA   ,Accounting,1000,1
+87388,7,M,1977,BS    ,Chemistry,200,1
+87391,12,M,1975,BS    ,History,50,1
+87407,4,F,1970,BA    ,GRO Soc Science,100,1
+87416,9,F,1975,BBA   ,Business General,100,1
+87419,15,F,1971,BS    ,GRP SS Econ,23000,1
+87420,11,M,1975,MED   ,Chemistry,50,1
+87437,10,F,1975,BS    ,GRO Soc Science,500,1
+87440,2,F,1975,BA    ,Psychology,100,1
+87451,5,M,1972,BBA   ,Business General,25,1
+87468,7,F,1973,BPH   ,Environmental Studies,50,1
+87471,9,F,1977,BS    ,Therapeutic Recreation,100,1
+87480,4,M,1980,BS    ,Group SS Soc,15,1
+87503,2,F,1976,BS    ,GRP SS Econ,30,1
+87508,15,M,1973,BS    ,Biology,20,1
+87516,26,M,1975,BA    ,Business General,2000,1
+87524,5,M,1970,BBA   ,Accounting,500,1
+87530,7,F,1968,BA    ,Group Science,250,1
+87545,1,M,1968,BS    ,Mathematics,50,1
+87546,4,F,1968,BS    ,English Language and Literature,50,1
+87556,17,M,1972,MBA   ,Business General,200,1
+87560,6,F,1972,BS    ,GRP SCI Biology,75,1
+87593,7,F,1967,BS    ,Biology,25,1
+87623,9,M,1974,BS    ,Group SS Soc,200,1
+87631,14,M,1973,MSW   ,Social Work,600,1
+87637,114,M,1967,BS    ,GRO Soc Science,1850,1
+87647,11,F,1977,BS    ,Biology,300,1
+87652,29,M,1971,BA    ,Biology,50,1
+87687,3,M,1974,BBA   ,Business General,2000,1
+87696,6,M,1975,BS    ,Physical Education,50,1
+87751,7,M,1973,BS    ,Computer Science,100,1
+87782,8,F,1969,BS    ,GRO Soc Science,100,1
+87799,15,M,1971,BS    ,Physical Education,15,1
+87806,7,F,1968,BA    ,German,30,1
+87821,9,F,1969,BS    ,Mathematics,500,1
+87824,9,M,1974,BA    ,Music,20,1
+87834,5,F,1969,BA    ,GRO Soc Science,10,1
+87874,1,F,1971,BS    ,Group Science,100,1
+87955,8,M,1972,BS    ,Chemistry,100,1
+87977,8,F,1975,BS    ,Group SS Soc,100,1
+88008,9,F,1968,BS    ,Biology,50,1
+88097,4,F,1969,BA    ,English Language and Literature,20,1
+88134,15,M,1972,BA    ,Political Science,23000,1
+88140,7,M,1973,BS    ,Biology,100,1
+88161,11,F,1973,MED   ,Special Education,100,1
+88176,7,F,1975,BS    ,Group SS Soc,100,1
+88184,15,F,1967,BA    ,Group Science,25,1
+88228,9,M,1976,BS    ,Sociology,100,1
+88232,8,F,1977,BS    ,Mathematics,40,1
+88248,29,M,1976,BS    ,Physical Education,300,1
+88294,53,F,1967,MED   ,General Education,50,1
+88323,17,M,1969,BS    ,GRO Soc Science,300,1
+88336,10,F,1975,MED   ,General Education,50,1
+88364,8,F,1969,BA    ,French,75,1
+88367,12,F,1970,BA    ,Group SS Soc,300,1
+88396,11,F,1975,BS    ,GRO Soc Science,250,1
+88408,9,F,1967,BA    ,GRO Soc Science,100,1
+88416,7,F,1969,BS    ,GRO Soc Science,50,1
+88419,16,M,1971,BS    ,Sociology,300,1
+88446,12,M,1972,BS    ,Sociology,300,1
+88449,8,F,1973,BS    ,Group SS Soc,50,1
+88476,9,M,1973,MSW   ,German,50,1
+88506,28,F,1981,BS    ,Natural Resource Management,1200,1
+88530,9,M,1976,BS    ,Earth Science,50,1
+88548,2,F,1973,BS    ,Group SS Soc,100,1
+88581,8,F,1972,BS    ,Group SS Soc,50,1
+88596,14,M,1974,BS    ,Political Science,1000,1
+88601,9,M,1977,MBA   ,Accounting,100,1
+88611,12,F,1974,BS    ,Chemistry,250,1
+88612,12,M,1974,BS    ,Chemistry,250,1
+88644,6,F,1976,BS    ,Physical Education,250,1
+88646,9,F,1972,BS    ,Psychology,5,1
+88661,9,M,1977,BBA   ,Business General,150,1
+88668,6,F,1971,BS    ,GRP SS Econ,50,1
+88746,6,M,1970,BS    ,GRO Soc Science,25,1
+88773,15,M,1975,BS    ,GRO Soc Science,450,1
+88786,6,M,1972,BS    ,Group SS Soc,20,1
+88902,10,F,1972,BS    ,Mathematics,100,1
+88914,2,M,1976,BS    ,Mathematics,50,1
+88930,7,F,1991,BSN   ,Nursing - RN,150,1
+88960,12,F,1967,BA    ,Psychology,50,1
+88970,7,F,1974,BA    ,Spanish,25,1
+88979,2,F,1974,BS    ,Environmental Studies,100,1
+88987,15,F,1970,BA    ,English Language and Literature,5000,1
+88999,9,M,1976,BBA   ,Business General,100,1
+89007,1,F,1986,BS    ,Criminal Justice,100,1
+89011,9,M,1971,BS    ,Biology,25,1
+89012,10,M,1970,BA    ,Economics,200,1
+89035,15,M,1974,BBA   ,Accounting,50,1
+89061,13,M,1967,BA    ,Political Science,100,1
+89071,7,F,1969,BS    ,Mathematics,25,1
+89116,12,M,1975,BA    ,Health Science,200,1
+89117,16,M,1974,MED   ,Reading,600,1
+89131,39,F,1969,BA    ,English Language and Literature,2300,1
+89135,11,M,1974,BS    ,Social Relations,200,1
+89194,34,M,1969,BS    ,Economics,2300,1
+89205,13,F,1976,BS    ,Physical Education,600,1
+89214,9,F,1974,BS    ,Criminal Justice,150,1
+89247,16,F,1969,BS    ,GRO Soc Science,75,1
+89261,20,F,1975,BS    ,Sociology,50,1
+89282,6,M,1974,BS    ,Physical Education,200,1
+89285,22,M,1970,BS    ,Biology,1500,1
+89321,8,F,1971,BS    ,GRP SS Pol Sci,50,1
+89341,5,F,1975,BA    ,Psychology,500,1
+89375,10,M,1974,BS    ,Art,25,1
+89392,20,M,1968,BA    ,Biology,600,1
+89423,6,F,1975,BA    ,Spanish,150,1
+89430,5,M,1970,BBA   ,Business General,50,1
+89458,9,M,1971,BS    ,Chemistry,150,1
+89486,4,M,1969,BS    ,Mathematics,20,1
+89488,3,M,1985,BS    ,Physical Education,50,1
+89505,13,M,1974,BBA   ,Business General,50,1
+89511,9,M,1968,BA    ,Biology,200,1
+89554,9,M,1973,BS    ,Biology,300,1
+89557,10,F,1971,BS    ,Physical Education,150,1
+89569,7,M,1967,BA    ,Psychology,200,1
+89596,16,M,1983,BS    ,GRO Soc Science,600,1
+89636,11,M,1970,BS    ,Geology,250,1
+89650,9,F,1979,BS    ,Public Administration,100,1
+89695,11,M,1971,BS    ,Sociology,100,1
+89696,14,F,1970,BS    ,Group SS Soc,500,1
+89704,25,M,1968,BA    ,English Language and Literature,100,1
+89720,75,M,1971,BS    ,Economics,50,1
+89722,31,M,1977,MED   ,Bilingual/Bicultural Education,100,1
+89725,19,M,1974,BS    ,History,480,1
+89744,13,F,1974,BA    ,Art,250,1
+89762,5,F,1969,BA    ,Spanish,75,1
+89764,9,F,1974,BS    ,Physical Education,75,1
+89765,9,M,1976,BS    ,Environmental Studies,150,1
+89775,9,M,1969,BS    ,Group Science,225,1
+89781,12,M,1971,BS    ,Business General,600,1
+89802,17,M,1973,BBA   ,Accounting,100,1
+89899,33,F,1993,MBA   ,Business General,4566.5,1
+89955,4,M,1975,BS    ,Public Administration,50,1
+90068,10,F,1979,BS    ,Nursing,200,1
+90123,9,F,2002,BA    ,Health Communication,200,1
+90154,9,F,1996,BBA   ,Accounting,5000,1
+90227,10,M,1986,BS    ,Political Science,25,1
+90418,7,M,2004,MED   ,General Education,15,1
+90566,8,F,1986,MED   ,General Education,80,1
+90586,9,F,1985,BS    ,Nursing,50,1
+90609,3,F,1987,BS    ,Sociology,100,1
+90652,8,M,1980,MBA   ,Management,50,1
+90694,8,F,2004,MED   ,General Education,5,1
+90721,3,M,1999,BS    ,Health Science,5,1
+90765,6,F,1988,MED   ,General Education,50,1
+90827,12,M,2005,BBA   ,Marketing,50,1
+90862,8,M,1975,BPH   ,Sociology,300,1
+90890,12,F,1980,BBA   ,Business General,750,1
+90893,27,F,1983,MBA   ,Marketing,51245.54,1
+90969,6,F,2003,BA    ,Political Science,150,1
+90994,5,F,1988,BS    ,Physical Therapy,50,1
+90996,5,M,1992,BBA   ,Marketing,100,1
+91015,6,F,1975,BPH   ,Environmental Studies,25,1
+91055,1,F,1995,BS    ,Mathematics,65,1
+91069,7,M,1977,MBA   ,Taxation,100,1
+91118,50,F,1979,BS    ,Art,500,1
+91143,49,F,1980,BS    ,Political Science,580,1
+91226,5,M,1999,MPAS  ,Physician Assistant Studies,100,1
+91275,8,M,1998,BSE   ,Engineering,600,1
+91277,1,F,2001,BS    ,Advertising & Public Relations,50,1
+91339,6,F,1994,BBA   ,Accounting,100,1
+91375,6,M,1993,BBA   ,Finance,50,1
+91482,7,M,1986,BBA   ,Facilities Management,100,1
+91508,91,F,1995,MBA   ,Business General,100,1
+91561,6,M,1978,BBA   ,Business General,100,1
+91562,4,M,1981,BBA   ,Business General,100,1
+91670,6,M,2002,MBA   ,Business General,50,1
+91704,3,F,2004,BS    ,Physical Education,50,1
+91729,10,F,1995,BSN   ,Nursing - RN,50,1
+91759,7,F,1981,BS    ,Biology,20,1
+91767,14,F,2000,BS    ,Health Science,80,1
+91771,95,F,2001,MED   ,General Education,300,1
+91787,15,F,1979,BS    ,Environmental Studies,100,1
+91802,5,F,2003,BS    ,Biomedical Sciences,1000,1
+91829,8,F,1989,EDS   ,Leadership,75,1
+91895,6,M,1981,MBA   ,Finance,20,1
+91926,1,M,2002,BS    ,Biomedical Sciences,150,1
+91968,6,F,1994,BA    ,Biology,100,1
+91979,9,F,1982,BS    ,Nursing,150,1
+91994,30,F,2002,MSW   ,Social Work,1500,1
+92017,6,F,1991,MBA   ,Finance,280,1
+92026,8,F,1995,MBA   ,Business General,25,1
+92059,6,M,1997,BBA   ,Marketing,50,1
+92067,7,M,1974,BS    ,GRP SS Pol Sci,750,1
+92091,6,M,1996,MBA   ,Business General,50,1
+92174,2,M,1996,BBA   ,Marketing,1000,1
+92189,9,M,1990,BBA   ,Management,200,1
+92205,7,F,1994,MED   ,General Education,100,1
+92209,9,M,1982,BSN   ,Nursing,100,1
+92241,10,M,2010,MED   ,General Education,350,1
+92257,11,M,1974,MS    ,Computer Information Systems,50,1
+92343,20,M,1985,MED   ,General Education,575,1
+92356,5,F,1998,BS    ,Mathematics,100,1
+92370,5,F,1978,BSW   ,Social Work,100,1
+92415,7,M,1996,MBA   ,Business General,250,1
+92465,15,M,1997,MED   ,General Education,100,1
+92548,6,F,1993,BS    ,Biology,100,1
+92594,10,M,1984,BBA   ,Accounting,500,1
+92674,8,M,1990,BBA   ,Accounting,1000,1
+92677,5,F,1996,BA    ,Psychology,100,1
+92708,4,M,1978,BS    ,Public Administration,50,1
+92808,11,F,2001,BBA   ,Accounting,1000,1
+92830,1,F,1999,MST   ,Taxation,25,1
+92842,5,F,1998,MED   ,General Education,25,1
+92848,12,M,2006,BS    ,Psychology,600,1
+92875,2,F,2000,BS    ,Physical Education,30,1
+92880,13,M,1999,BSE   ,Engineering,50,1
+92953,8,M,1984,MBA   ,Finance,50,1
+92988,1,F,2000,MSN   ,Nursing,50,1
+93004,7,M,1990,MST   ,Taxation,250,1
+93027,1,F,2000,BS    ,GRO Social Studies,200,1
+93061,2,F,2002,BSN   ,Nursing,20,1
+93083,6,F,1987,BS    ,Language Arts,75,1
+93113,7,M,1983,BS    ,Art,30,1
+93146,28,F,2009,MPA   ,Public Administration,250,1
+93181,11,F,1999,MS    ,Physical Therapy,50,1
+93198,7,F,1996,BS    ,Psychology,50,1
+93207,13,M,1989,BS    ,Public Administration,1000,1
+93262,8,F,1979,MED   ,General Education,1250,1
+93435,7,F,2001,MS    ,Physical Therapy,100,1
+93494,6,M,2006,BBA   ,Marketing,100,1
+93505,8,F,1981,MED   ,General Education,450,1
+93515,7,M,1991,MBA   ,Management,1000,1
+93537,41,M,1991,BBA   ,Marketing,1000,1
+93583,22,M,1985,BS    ,Criminal Justice,525,1
+93654,4,F,2002,BS    ,Legal Studies,565,1
+93676,5,F,2001,MED   ,General Education,475,1
+93788,7,M,1996,MS    ,Physical Therapy,100,1
+93881,8,F,2001,BS    ,Health Communication,150,1
+93893,9,F,1998,MPA   ,Public Administration,50,1
+93907,11,M,1999,BS    ,Behavioral Science,280,1
+93935,19,F,2008,MED   ,Higher Education,40,1
+93941,27,F,2001,MED   ,General Education,25,1
+93963,8,F,1988,MSW   ,Social Work,25,1
+93987,12,M,1988,MED   ,General Education,10,1
+93993,3,M,1990,BS    ,Advertising & Public Relations,25,1
+94054,8,M,1985,BS    ,Psychology,100,1
+94076,8,M,1976,BS    ,Public Administration,200,1
+94079,15,M,1977,MED   ,General Education,1250,1
+94102,6,M,2000,BS    ,Health Communication,100,1
+94175,5,F,1994,MED   ,General Education,10,1
+94233,62,F,1981,MBA   ,Finance,1500,1
+94236,43,F,1980,MBA   ,Business General,800,1
+94261,1,F,2003,BSN   ,Nursing,200,1
+94276,12,M,1995,BS    ,Physical Education,100,1
+94297,18,M,1982,MED   ,General Education,50,1
+94341,8,M,2003,MBA   ,Business General,100,1
+94366,12,M,1994,BS    ,Criminal Justice,250,1
+94371,9,F,1996,MPAS  ,Physician Assistant Studies,200,1
+94391,5,F,1982,BBA   ,Management,50,1
+94421,20,M,1996,BS    ,Health Science,337.08,1
+94471,11,F,1997,MS    ,Physical Therapy,50,1
+94529,6,F,2004,DPT   ,Physical Therapy,100,1
+94689,7,F,1988,MED   ,General Education,50,1
+94761,6,F,1994,MED   ,Reading,125,1
+94779,26,F,1977,BBA   ,Business General,3000,1
+94787,17,F,1987,MED   ,General Education,50,1
+94830,6,M,1980,BS    ,Physical Education,20,1
+94897,9,M,1977,BS    ,History,50,1
+94917,6,F,2000,BA    ,English Language and Literature,100,1
+94920,7,F,1999,MSN   ,Nursing,100,1
+94981,21,F,1976,BS    ,Geology,200,1
+95047,11,F,1997,BBA   ,Management,300,1
+95098,32,M,1980,BBA   ,Business General,1000,1
+95128,8,F,2003,MED   ,Reading,25,1
+95145,5,F,1998,MBA   ,Business General,20,1
+95150,13,M,1978,BBA   ,Business General,25,1
+95195,2,F,1994,BS    ,Psychology,70,1
+95208,18,F,1983,MBA   ,Management,100,1
+95238,6,M,1992,BS    ,Journalism,20,1
+95277,21,F,1982,BS    ,Special Education,100,1
+95312,23,F,1997,BA    ,Public Administration,35,1
+95337,12,F,1991,MED   ,Special Education,10,1
+95392,11,M,1985,BS    ,Advertising & Public Relations,1000,1
+95393,7,F,1986,BS    ,Liberal Studies,50,1
+95420,0,F,1988,BS    ,Public Administration,30,1
+95485,18,F,1987,BS    ,Computer Science,500,1
+95495,14,M,1999,MPAS  ,Physician Assistant Studies,15,1
+95524,9,F,1990,BBA   ,Finance,50,1
+95611,7,F,1986,BS    ,Public Administration,25,1
+95617,10,M,1997,BS    ,Film and Video,300,1
+95624,2,F,1989,BS    ,Mathematics,600,1
+95635,9,F,1998,MED   ,General Education,1000,1
+95674,7,F,1988,BS    ,Sociology,50,1
+95775,10,M,1995,BS    ,Criminal Justice,25,1
+95805,12,M,1997,BS    ,Health Science,30,1
+95826,3,F,1991,BS    ,Health Science,100,1
+95829,6,F,1992,BS    ,Psychology,100,1
+96005,7,F,2002,MED   ,General Education,50,1
+96074,6,F,2000,BSN   ,Nursing,1000,1
+96092,5,M,2004,BSE   ,Engineering,50,1
+96277,2,F,2003,BS    ,Psychology,25,1
+96303,13,M,1999,BS    ,Criminal Justice,300,1
+96319,4,M,1999,BBA   ,Accounting,20,1
+96343,14,F,2001,MPA   ,Public Administration,150,1
+96349,7,F,2007,BS    ,Journalism,700,1
+96418,11,M,1975,MBA   ,Accounting,175,1
+96445,52,F,1980,BA    ,Music,2000,1
+96487,4,F,1990,BS    ,Hospitality Tourism Mgt,100,1
+96578,27,M,1983,BS    ,Geology,350,1
+96581,13,M,1987,MED   ,General Education,100,1
+96592,8,F,1982,BS    ,Occup Safety/Health Management,100,1
+96599,11,F,1981,BBA   ,Accounting,50,1
+96605,9,M,1977,MBA   ,Management,500,1
+96617,7,M,2000,MBA   ,Business General,250,1
+96665,1,F,1999,MSN   ,Nursing,100,1
+96692,9,F,2002,MED   ,General Education,500,1
+96693,8,F,1986,MSN   ,Nursing,75,1
+96758,2,M,1978,BBA   ,Management,25,1
+96760,7,F,1977,BS    ,Social Relations,30,1
+96766,2,M,1981,BS    ,Environmental Studies,10,1
+96775,4,M,1998,MBA   ,Business General,250,1
+96780,63,M,1978,BS    ,Environmental Studies,650,1
+96828,23,F,1977,BS    ,Psychology,600,1
+96852,29,M,1980,BPH   ,Environmental Studies,500,1
+96874,9,F,1983,BBA   ,Accounting,50,1
+96891,18,M,1987,BBA   ,Business General,300,1
+96904,7,F,2001,MED   ,General Education,100,1
+96926,8,F,1982,BS    ,Health Science,100,1
+96940,6,M,1996,MPA   ,Public Administration,100,1
+96957,6,M,1984,BA    ,Computer Science,300,1
+97044,3,F,1995,BS    ,Psychology,50,1
+97092,24,M,1986,BBA   ,Finance,250,1
+97148,7,F,1985,BS    ,Nursing,50,1
+97159,7,M,1986,BBA   ,Marketing,150,1
+97176,2,F,2001,BS    ,Physical Education,10,1
+97200,13,M,1987,BS    ,Political Science,250,1
+97328,21,F,2002,BS    ,Health Science,175,1
+97343,10,M,1988,MS    ,Communications,100,1
+97444,10,F,2001,BSN   ,Nursing,20,1
+97456,11,F,2000,BA    ,Advertising & Public Relations,50,1
+97457,11,M,1997,MED   ,General Education,150,1
+97459,25,M,1989,MBA   ,Business General,25,1
+97529,5,M,1998,BBA   ,Marketing,100,1
+97544,4,F,2003,BS    ,Chemistry,25,1
+97559,13,F,2003,MED   ,General Education,25,1
+97605,6,F,1991,BA    ,English Language and Literature,20,1
+97610,11,F,2005,BA    ,Photography,150,1
+97665,27,F,1999,BBA   ,Management,100,1
+97709,5,F,1998,MS    ,Physical Therapy,50,1
+97742,2,F,1996,BS    ,Physical Education,150,1
+97838,12,M,2002,BSE   ,Engineering,250,1
+97894,9,F,2005,MPAS  ,Physician Assistant Studies,250,1
+97933,7,M,1999,BS    ,GRO Social Studies,40,1
+98016,9,F,1971,MED   ,Reading,25,1
+98031,13,F,1991,MSW   ,Social Work,50,1
+98078,7,M,1977,BS    ,English Language and Literature,100,1
+98129,10,M,1992,MSW   ,Social Work,300,1
+98151,23,M,1979,BBA   ,Business General,100,1
+98160,64,M,1978,BBA   ,Business General,1500,1
+98169,8,F,1978,BBA   ,Accounting,100,1
+98178,8,F,1987,BBA   ,Management,500,1
+98189,8,F,1990,MPA   ,Public Administration,300,1
+98219,28,F,1978,MBA   ,Management,300,1
+98260,56,F,2000,MED   ,General Education,400,1
+98325,1,F,2001,PBCE  ,,25,1
+98332,4,F,1981,BME   ,Music,25,1
+98337,37,M,1978,BBA   ,Business General,600,1
+98363,7,F,1988,MED   ,Special Education,1000,1
+98387,6,F,1985,BA    ,French,100,1
+98400,6,F,1990,BS    ,Mathematics,50,1
+98499,10,M,1985,BS    ,Criminal Justice,50,1
+98521,3,F,1997,BSN   ,Nursing,20,1
+98565,9,F,1982,MBA   ,Business General,430,1
+98585,7,M,1992,MED   ,General Education,125,1
+98629,31,F,1985,BS    ,Sociology,500,1
+98634,18,M,1984,BS    ,Criminal Justice,1000,1
+98648,26,F,1991,BS    ,Photography,100,1
+98675,12,F,1993,BS    ,Biomedical Sciences,300,1
+98719,13,M,1994,BBA   ,Finance,1000,1
+98774,5,F,1991,MED   ,Special Education,40,1
+98795,8,M,2000,BS    ,Occup Safety/Health Management,25,1
+98856,14,M,1990,MST   ,Taxation,150,1
+98931,11,F,1995,MED   ,General Education,53,1
+98936,4,M,1995,BS    ,Computer Science,25,1
+98979,17,F,2003,MED   ,General Education,110.09,1
+99032,3,M,2002,BS    ,Biology,100,1
+99293,4,M,1996,MED   ,General Education,300,1
+99313,24,F,2001,BS    ,Group Science,45,1
+99333,11,F,2001,BS    ,Biomedical Sciences,2500,1
+99458,10,F,2003,BBA   ,Finance,50,1
+99467,5,F,2000,BS    ,Group Science,20,1
+99510,6,F,2000,BS    ,Health Communication,25,1
+99574,10,F,2001,BS    ,Psychology,108,1
+99690,8,F,1995,MPA   ,Public Administration,100,1
+99701,3,F,1992,BBA   ,Accounting,100,1
+99706,8,M,1978,BBA   ,Accounting,50,1
+99770,1,F,1986,MED   ,General Education,50,1
+99790,8,M,1977,MBA   ,Accounting,100,1
+99866,12,F,1997,MED   ,General Education,150,1
+99872,9,M,1983,BBA   ,Accounting,430,1
+99875,18,F,1984,MPA   ,Public Administration,26,1
+99884,11,M,1973,BS    ,Environmental Studies,10,1
+99930,16,F,1991,BS    ,Biology,100,1
+99959,1,F,1978,BS    ,Legal Administration,25,1
+99987,23,F,1985,MSN   ,Nursing,700,1
+100002,42,M,1987,BBA   ,Accounting,1300,1
+100003,27,F,1978,BS    ,Criminal Justice,70,1
+100020,2,M,1996,BS    ,Advertising & Public Relations,20,1
+100068,9,M,1981,MBA   ,Business General,100,1
+100074,8,F,1981,BS    ,Public Administration,50,1
+100099,7,F,1995,BS    ,Health Science,50,1
+100190,15,M,1988,BS    ,Advertising & Public Relations,750,1
+100191,6,F,2010,BBA   ,Accounting,60,1
+100250,5,F,1983,BS    ,Criminal Justice,100,1
+100255,8,M,1994,BS    ,Public Administration,50,1
+100288,6,F,1996,MS    ,Communications,200,1
+100303,26,M,1992,BS    ,Mathematics,2600,1
+100304,9,F,1983,BS    ,Biology,500,1
+100335,18,M,1989,MED   ,General Education,300,1
+100336,5,M,1986,BS    ,Journalism,50,1
+100355,13,M,1994,MED   ,General Education,300,1
+100358,9,M,1999,BBA   ,Accounting,300,1
+100415,14,M,1988,BBA   ,Marketing,1000,1
+100422,9,M,1986,BS    ,Criminal Justice,300,1
+100514,13,M,1997,MS    ,Communications,3195.77,1
+100565,23,M,1989,BBA   ,Business General,150,1
+100566,1,F,1988,BS    ,Art,20,1
+100596,3,F,2001,MPAS  ,Physician Assistant Studies,100,1
+100601,5,F,1989,BS    ,Health Science,20,1
+100625,1,F,2002,BS    ,Sociology,50,1
+100674,2,M,1999,BS    ,Health Science,50,1
+100682,3,M,2006,BS    ,Physical Education,40,1
+100703,7,M,1991,MED   ,Special Education,40,1
+100743,8,M,1992,BS    ,Natural Resource Management,25,1
+100750,15,M,1993,MBA   ,Business General,150,1
+100770,14,M,1994,MED   ,General Education,1000,1
+100796,6,M,1997,BS    ,Health Science,100,1
+100811,2,F,1993,BBA   ,Management,25,1
+100821,35,M,2002,BBA   ,Business General,2250,1
+100829,2,F,1994,BS    ,Psychology,10,1
+100833,2,F,2000,BS    ,Psychology,25,1
+100855,14,F,1999,MED   ,General Education,450,1
+100860,19,M,1994,BBA   ,Finance,1200,1
+100864,5,M,1995,BBA   ,Accounting,5000,1
+100871,8,M,1993,BS    ,Broadcasting,100,1
+100917,6,M,2002,BBA   ,Finance,500,1
+100981,12,M,1999,BS    ,Occup Safety/Health Management,150,1
+101027,21,F,2001,BS    ,Biomedical Sciences,1390,1
+101065,19,F,1997,BS    ,Biology,50,1
+101077,7,M,2000,BBA   ,Marketing,20,1
+101105,2,F,1998,MPAS  ,Physician Assistant Studies,1000,1
+101114,7,F,2000,MED   ,General Education,50,1
+101148,8,F,1993,MS    ,Physical Therapy,75,1
+101154,6,M,1999,BS    ,Information Systems,25,1
+101166,5,F,2001,BS    ,GRO Social Studies,100,1
+101210,8,F,2007,BBA   ,Finance,150,1
+101255,10,F,1984,MED   ,General Education,300,1
+101260,16,F,1980,MED   ,General Education,500,1
+101278,10,F,1982,MPA   ,Public Administration,2500,1
+101280,61,F,1977,MED   ,General Education,600,1
+101282,2,F,1974,BS    ,GRP SS Hist,100,1
+101330,3,F,1979,BS    ,Art,25,1
+101336,9,F,1993,MED   ,General Education,50,1
+101339,7,F,1998,MED   ,General Education,75,1
+101351,9,M,1980,BME   ,Music,100,1
+101354,5,F,2003,MED   ,General Education,50,1
+101367,12,M,1982,BS    ,Computer Science,500,1
+101397,7,F,1987,MED   ,General Education,50,1
+101449,64,M,1975,MBA   ,Business General,80,1
+101503,6,F,1986,BBA   ,Accounting,100,1
+101536,1,F,1980,BBA   ,Business General,50,1
+101541,3,F,1987,MED   ,Special Education,35,1
+101616,16,M,1978,BS    ,History,150,1
+101623,3,M,1986,MST   ,Taxation,1000,1
+101636,10,M,1978,BS    ,Sociology,100,1
+101646,10,M,1980,BS    ,Geology,100,1
+101648,11,M,1992,MBA   ,Marketing,1000,1
+101694,7,F,1987,BBA   ,Management,150,1
+101699,5,F,1982,BS    ,Art,25,1
+101719,27,F,1979,BS    ,Group SS Soc,600,1
+101726,15,M,1978,BS    ,Group SS Soc,300,1
+101729,8,M,1978,BS    ,Biology,35,1
+101730,50,M,1992,BBA   ,Marketing,150,1
+101751,28,F,1979,MSN   ,Nursing,250,1
+101824,12,F,2008,MED   ,General Education,35,1
+101863,6,F,1997,BS    ,Biology,25,1
+101866,4,F,1978,BS    ,Nursing,100,1
+101899,10,M,1994,MST   ,Taxation,125,1
+101918,11,F,1995,BS    ,Biology,50,1
+101929,6,M,1990,BS    ,Criminal Justice,100,1
+101941,4,F,1996,BBA   ,Marketing,25,1
+102020,7,F,1983,BBA   ,Marketing,50,1
+102051,2,F,1983,BBA   ,Accounting,500,1
+102060,3,F,1997,BA    ,Political Science,100,1
+102116,9,M,1986,BS    ,Biology,50,1
+102243,137,F,2001,MED   ,General Education,725,1
+102257,3,M,1987,BS    ,Criminal Justice,25,1
+102284,9,M,2004,BBA   ,Marketing,50,1
+102308,7,F,2002,MED   ,General Education,50,1
+102329,13,F,2006,MED   ,General Education,830,1
+102335,3,F,2013,BA    ,International Relations,5,1
+102337,9,F,1986,BS    ,Geology,100,1
+102381,10,F,2001,BBA   ,Management,50,1
+102394,67,F,2002,MBA   ,Business General,300,1
+102412,16,F,1995,BS    ,Biomedical Sciences,100,1
+102433,7,F,1990,BA    ,Biology,250,1
+102446,8,F,1994,BS    ,Natural Resource Management,25,1
+102451,8,F,1989,BS    ,Advertising & Public Relations,1000,1
+102472,6,M,2001,BBA   ,Marketing,476.67,1
+102494,29,M,1998,BS    ,Computer Science,500,1
+102517,8,F,1998,BSN   ,Nursing,150,1
+102527,5,F,2003,BS    ,Group Science,200,1
+102691,1,M,2002,BBA   ,Business Economics,25,1
+102712,7,M,2004,MED   ,General Education,25,1
+102839,12,F,2000,DPT   ,Physical Therapy,100,1
+102848,28,F,2003,MED   ,General Education,300,1
+102867,13,M,1998,BS    ,Physical Education,300,1
+102910,7,F,1995,EDS   ,Leadership,300,1
+102918,3,M,1998,BS    ,Physical Education,300,1
+102942,6,F,1998,BSN   ,Nursing,25,1
+102954,2,M,2002,BS    ,Film and Video,100,1
+102958,2,M,2007,BSE   ,Engineering,125,1
+103074,16,M,1973,MS    ,Urban Education,50,1
+103125,57,M,1980,MBA   ,Finance,600,1
+103151,5,F,1998,PMCE  ,,40,1
+103168,13,F,1995,BSN   ,Nursing - RN,1,1
+103186,9,F,1998,MPA   ,Public Administration,250,1
+103203,5,M,1989,BBA   ,Management,150,1
+103265,8,M,1977,BS    ,Biology,400,1
+103273,22,M,1974,MED   ,General Education,5,1
+103301,5,M,1979,BS    ,Environmental Studies,100,1
+103304,7,M,1977,BS    ,Physical Education,100,1
+103305,17,F,1981,MBA   ,Business General,25,1
+103356,6,F,1975,BS    ,Group SS Soc,196,1
+103357,9,F,1984,BBA   ,Business General,160,1
+103402,15,F,1982,BBA   ,Marketing,500,1
+103480,2,M,1978,BBA   ,Business General,50,1
+103631,7,M,1997,MBA   ,Business General,100,1
+103660,11,F,1988,BS    ,Physical Therapy,200,1
+103710,6,M,1996,BA    ,Sociology,50,1
+103754,14,F,1987,BFA   ,Art,165,1
+103768,1,M,1981,BS    ,Biology,100,1
+103772,3,F,1998,BSN   ,Nursing,150,1
+103782,7,M,1982,BS    ,Economics,15000,1
+103800,1,M,1999,BSE   ,Engineering,50,1
+103857,8,M,2003,MBA   ,Business General,500,1
+103870,20,F,2000,BBA   ,Accounting,500,1
+103911,3,F,1995,BS    ,Biomedical Sciences,50,1
+103922,4,F,1989,BS    ,Physical Therapy,25,1
+104014,5,M,1994,BS    ,Psychology,50,1
+104027,13,F,2001,BBA   ,Marketing,100,1
+104047,25,M,2000,BS    ,Film and Video,350,1
+104127,7,F,2003,BBA   ,Accounting,1000,1
+104177,8,F,1999,BS    ,Biology,50,1
+104186,4,F,2000,MPA   ,Public Administration,50,1
+104193,41,F,1988,MED   ,Special Education,200,1
+104277,5,F,1998,BS    ,Health Science,50,1
+104312,9,F,1995,BS    ,Biology,100,1
+104352,6,F,2001,MS    ,Physical Therapy,25,1
+104487,7,M,1995,MED   ,General Education,50,1
+104550,12,M,2004,BS    ,Photography,75,1
+104562,7,M,1994,BS    ,Political Science,100,1
+104599,4,F,1996,BS    ,Physical Education,25,1
+104616,8,F,2000,BS    ,Film and Video,25,1
+104620,9,M,2005,BS    ,Physical Education,300,1
+104676,45,M,2000,BS    ,Computer Science,45,1
+104692,11,F,2006,BA    ,Public Administration,500,1
+104803,6,M,1981,MST   ,Taxation,75,1
+104810,6,M,1980,MBA   ,Accounting,50,1
+104813,17,F,1979,BS    ,Physical Education,300,1
+104820,12,M,1980,BAS   ,Industrial Technology,10,1
+104825,26,M,1979,BPH   ,Environmental Studies,5000,1
+104827,10,F,1981,BA    ,Spanish,25,1
+104842,20,M,1976,MED   ,Reading,500,1
+104857,12,M,1984,BBA   ,Finance,300,1
+104907,3,M,1983,BS    ,Legal Administration,50,1
+104923,11,M,1992,BS    ,Industrial Technology,75,1
+104940,10,F,1977,BS    ,Sociology,150,1
+104944,13,M,1991,BBA   ,Accounting,100,1
+104978,17,F,1990,MSN   ,Nursing,25,1
+104984,2,F,1977,BS    ,Nursing,50,1
+105017,5,M,1978,BS    ,Sociology,80,1
+105029,25,M,1979,BBA   ,Business General,630,1
+105041,49,F,1999,MPA   ,Public Administration,83.36,1
+105053,14,F,1992,BFA   ,Art,100,1
+105097,6,F,2001,MSW   ,Social Work,50,1
+105111,7,F,1994,BSN   ,Nursing - RN,25,1
+105148,34,F,1997,MSN   ,Nursing,45,1
+105202,19,M,1991,BFA   ,Art,250,1
+105207,15,M,2000,MBA   ,Business General,50,1
+105332,1,F,1989,MED   ,Special Education,75,1
+105347,1,F,1980,BS    ,Special Education,200,1
+105349,5,F,1990,BS    ,Legal Studies,75,1
+105412,7,F,1982,BBA   ,Finance,150,1
+105423,3,M,1988,BS    ,Hospitality Tourism Mgt,150,1
+105435,13,M,1988,BBA   ,Finance,2100,1
+105459,2,F,1998,MS    ,Occupational Therapy,75,1
+105542,2,F,1998,BS    ,History,120,1
+105568,11,F,2005,MS    ,Communications,40,1
+105605,10,F,1992,BS    ,Broadcasting,100,1
+105650,12,F,2000,MS    ,Physical Therapy,15,1
+105655,5,M,1993,BS    ,Physical Education,125,1
+105676,9,F,1997,MS    ,Physical Therapy,25,1
+105696,3,M,1995,MED   ,Reading,50,1
+105786,12,M,1990,BS    ,Computer Science,300,1
+105892,15,F,1991,BBA   ,Accounting,300,1
+105934,5,M,1997,BBA   ,Accounting,500,1
+105983,13,M,1998,MPA   ,Public Administration,1050,1
+106003,8,F,1991,BS    ,Physical Therapy,150,1
+106046,8,F,2003,MSW   ,Social Work,25,1
+106096,10,F,1992,BBA   ,Management,25,1
+106231,25,M,1996,MED   ,General Education,50,1
+106236,7,F,1996,MED   ,General Education,50,1
+106353,6,F,1998,BS    ,Biomedical Sciences,200,1
+106373,3,F,2000,BA    ,English Language and Literature,25,1
+106376,9,M,2004,BBA   ,Finance,50,1
+106385,12,F,1997,MSW   ,Social Work,500,1
+106396,67,F,2002,MBA   ,Business General,350,1
+106483,3,M,2000,MBA   ,Business General,100,1
+106540,18,F,1983,MA    ,Reading,3500,1
+106564,21,F,1979,BSN   ,Nursing,660,1
+106611,11,M,1975,MBA   ,Finance,1000,1
+106775,4,F,1993,BA    ,GRO Soc Science,2500,1
+106804,8,F,1975,BS    ,Social Relations,75,1
+106846,1,M,1998,MBA   ,Business General,15,1
+106867,21,M,1979,BBA   ,Business General,600,1
+107075,4,M,1997,MS    ,Biostatistics,20,1
+107136,10,F,2003,MBA   ,Business General,50,1
+107159,7,M,1994,MBA   ,Business General,1000,1
+107259,20,M,2000,MS    ,Communications,75,1
+107321,7,M,1991,MSW   ,Social Work,53,1
+107347,14,M,1993,BBA   ,Accounting,500,1
+107473,6,F,1988,BBA   ,Marketing,100,1
+107533,6,F,1994,MPA   ,Public Administration,100,1
+107538,2,M,1996,BA    ,Advertising & Public Relations,50,1
+107590,4,F,1993,BA    ,English Language and Literature,20,1
+107642,8,F,1989,BS    ,Physical Therapy,100,1
+107648,13,M,2006,MED   ,General Education,150,1
+107668,9,F,2001,MED   ,General Education,100,1
+107683,4,F,1999,MED   ,School Counseling,50,1
+107883,8,M,1996,BS    ,Natural Resource Management,25,1
+107901,5,F,2004,BS    ,Clinical Laboratory Sciences,50,1
+107942,1,M,1999,BBA   ,Accounting,200,1
+107976,23,M,2003,MED   ,General Education,1050,1
+108009,25,M,2002,BBA   ,Finance,1330,1
+108025,9,F,2000,BS    ,Sociology,50,1
+108052,2,F,1998,MSW   ,Social Work,15,1
+108087,78,F,2007,MPA   ,Public Administration,260,1
+108136,4,M,1995,MBA   ,Management,100,1
+108165,60,M,1991,BA    ,Communications,510,1
+108208,9,M,1981,MBA   ,Management,60,1
+108227,9,M,1976,BS    ,Public Administration,100,1
+108266,5,M,1988,BA    ,Music,14.43,1
+108267,8,F,1979,BS    ,Nursing,100,1
+108296,7,M,1989,BS    ,Mathematics,150,1
+108356,16,F,1990,BS    ,GRO Soc Science,50,1
+108358,4,F,1978,BSN   ,Nursing,25,1
+108365,17,M,1977,BS    ,Criminal Justice,300,1
+108368,17,F,2000,MBA   ,Business General,250,1
+108455,7,F,2002,MSN   ,Nursing,75,1
+108540,9,F,1989,BBA   ,Marketing,50,1
+108633,7,M,1993,BS    ,Physical Education,400,1
+108734,21,M,1988,BBA   ,Accounting,1000,1
+108832,6,F,1985,BBA   ,Management,100,1
+108850,11,M,1991,BS    ,Biology,150,1
+108944,3,F,2003,BBA   ,Business Economics,25,1
+108984,10,F,1989,BBA   ,Finance,1100,1
+109007,5,M,2001,BS    ,Criminal Justice,50,1
+109087,1,M,1998,BS    ,Biomedical Sciences,150,1
+109094,4,F,1996,MED   ,Reading,250,1
+109149,13,M,2003,BBA   ,Finance,100,1
+109174,7,F,2000,BA    ,Spanish,100,1
+109192,3,M,2005,BS    ,Criminal Justice,25,1
+109218,1,F,1999,BS    ,Criminal Justice,50,1
+109246,3,M,2002,BS    ,Psychology,50,1
+109247,4,F,1994,BA    ,English Language and Literature,20,1
+109266,6,F,1991,BS    ,Criminal Justice,50,1
+109270,15,M,1993,BBA   ,Finance,100,1
+109281,11,F,1992,MS    ,Physical Therapy,25,1
+109358,14,F,2000,BS    ,Physical Education,150,1
+109388,3,M,2003,BS    ,Computer Science,300,1
+109456,4,M,1999,BSE   ,Engineering,1000,1
+109477,4,F,1999,BA    ,Spanish,25,1
+109484,2,F,2003,BS    ,Sociology,50,1
+109501,31,F,2000,BA    ,Advertising & Public Relations,10,1
+109548,10,M,2002,MSA   ,Accounting,400,1
+109553,16,F,2002,BS    ,Legal Studies,50,1
+109616,5,M,2000,MED   ,General Education,25,1
+109636,0,M,1984,MST   ,Taxation,500,1
+109647,14,F,1991,BS    ,Computer Science,100,1
+109648,8,F,1985,BBA   ,Business General,50,1
+109680,10,F,1975,MED   ,Biology,400,1
+109696,15,F,1991,MBA   ,Business General,150,1
+109737,9,F,1989,BS    ,Sociology,10000,1
+109755,11,F,1990,BSW   ,Social Work,50,1
+109788,3,F,1982,MS    ,Health Science,50,1
+109794,24,F,1997,BA    ,History,20,1
+109800,9,M,1976,BS    ,Nursing,500,1
+109824,2,M,1980,MED   ,General Education,50,1
+109828,13,F,1990,MED   ,General Education,1000,1
+109887,8,F,1996,BBA   ,Business General,300,1
+109958,4,M,1981,BS    ,Computer Science,150,1
+109962,7,M,1980,BBA   ,Business General,500,1
+109987,4,F,1976,BS    ,Public Administration,25,1
+110001,6,M,1978,BBA   ,Marketing,50,1
+110044,34,F,1980,BS    ,Special Education,500,1
+110066,36,F,1995,MSN   ,Nursing,50,1
+110070,8,F,1987,BS    ,Physical Therapy,150,1
+110075,19,F,1980,BS    ,Art,1000,1
+110079,14,M,1976,BS    ,Physical Education,50,1
+110111,35,M,1982,BBA   ,Finance,14000,1
+110172,10,F,1980,BS    ,Geology,100,1
+110173,10,F,1993,MED   ,General Education,100,1
+110176,12,M,1982,BS    ,Physical Education,150,1
+110196,57,M,1983,BS    ,Art,10,1
+110231,8,F,2003,MPA   ,Public Administration,500,1
+110236,4,M,1980,BBA   ,Management,200,1
+110242,6,F,1992,MED   ,Reading,100,1
+110279,7,M,1983,BA    ,German,100,1
+110379,6,M,1993,BBA   ,Accounting,50,1
+110428,4,M,1998,MSW   ,Social Work,300,1
+110451,19,F,1992,MBA   ,Business General,100,1
+110492,8,M,2002,MED   ,General Education,150,1
+110569,5,F,1996,MPA   ,Public Administration,20,1
+110677,9,F,1996,MS    ,Physical Therapy,50,1
+110762,3,M,1999,MED   ,General Education,50,1
+110836,8,F,1995,BA    ,Psychology,30,1
+111025,75,M,2002,BBA   ,Marketing,1650,1
+111131,13,M,2007,BA    ,Philosophy,25,1
+111155,8,F,2001,BBA   ,Management,50,1
+111173,3,F,2003,BS    ,Health Science,50,1
+111192,12,M,2001,BBA   ,Marketing,2500,1
+111202,5,F,2002,BS    ,Biomedical Sciences,250,1
+111221,15,M,2003,BS    ,Physical Education,300,1
+111225,13,M,2001,BBA   ,Finance,100,1
+111278,9,F,2000,BS    ,Therapeutic Recreation,50,1
+111405,8,F,1979,BS    ,Nursing,300,1
+111408,13,F,1991,BBA   ,Marketing,300,1
+111484,1,M,1977,BS    ,Geology,500,1
+111490,29,F,1991,MED   ,Reading,680,1
+111549,24,M,1979,BS    ,Criminal Justice,300,1
+111553,4,M,1977,MED   ,Special Education,50,1
+111625,51,M,1980,BS    ,Therapeutic Recreation,1200,1
+111640,3,F,1982,BS    ,Geology,50,1
+111676,9,M,1979,BS    ,Group SS Soc,100,1
+111681,9,F,1979,BS    ,Nursing,300,1
+111704,63,M,1992,BS    ,Criminal Justice,2025,1
+111707,7,F,1978,BS    ,Biology,1000,1
+111714,6,F,1978,BBA   ,Marketing,500,1
+111762,27,M,1980,BBA   ,Finance,17000,1
+111764,41,M,1985,MPA   ,Public Administration,500,1
+111790,1,M,1996,MED   ,General Education,100,1
+111843,3,M,1993,BA    ,Spanish,100,1
+111851,13,F,1994,BBA   ,Accounting,500,1
+112005,28,F,1991,BS    ,Therapeutic Recreation,150,1
+112104,9,M,1993,BS    ,Criminal Justice,50,1
+112123,2,F,1988,BS    ,Occup Safety/Health Management,1500,1
+112125,9,F,2001,MED   ,General Education,25,1
+112134,11,F,2001,MSN   ,Nursing,250,1
+112165,12,M,1996,MBA   ,Business General,800,1
+112286,8,F,1986,BA    ,Spanish,50,1
+112337,25,F,2001,MPA   ,Public Administration,50,1
+112366,18,M,1992,BS    ,Anthropology,1996,1
+112371,4,F,1989,BS    ,Biomedical Sciences,80,1
+112433,15,M,2004,BBA   ,Management,410,1
+112436,4,F,1996,BS    ,Physical Education,100,1
+112464,10,F,1992,BSN   ,Nursing,500,1
+112466,9,F,1996,BS    ,Geology,200,1
+112469,5,F,1998,BBA   ,Finance,300,1
+112471,6,F,1994,MED   ,General Education,100,1
+112486,11,M,1998,BBA   ,Finance,150,1
+112521,2,M,1989,BS    ,Biomedical Sciences,10000,1
+112679,15,M,1998,BS    ,Advertising & Public Relations,150,1
+112754,8,F,1998,BS    ,Chemistry,40,1
+112757,15,M,1999,BBA   ,Management,500,1
+112853,4,F,1997,BS    ,Physical Education,500,1
+112875,11,M,2003,BS    ,GRO Social Studies,50,1
+112879,9,M,2003,MBA   ,Business General,50,1
+112880,10,M,2001,MED   ,Special Education,150,1
+112931,6,F,1977,MSW   ,Social Work,200,1
+112957,9,M,1982,MBA   ,Accounting,500,1
+112996,7,F,1982,BS    ,Special Education,25,1
+113004,8,M,1978,BA    ,Music,15,1
+113016,7,F,1972,BS    ,History,130,1
+113104,3,M,1978,BS    ,Biology,3500,1
+113114,10,F,1976,BS    ,Psychology,450,1
+113140,16,F,1989,DNP   ,Nursing,2500,1
+113153,12,F,2002,MSN   ,Nursing,125,1
+113164,7,F,1997,MSN   ,Nursing,25,1
+113168,11,F,1994,MSN   ,Nursing,100,1
+113215,109,M,2009,MS    ,Communications,440,1
+113267,9,M,1992,BBA   ,Management,100,1
+113279,30,M,1985,BBA   ,Marketing,2000,1
+113300,16,F,1992,BBA   ,Management,200,1
+113377,7,M,1988,BS    ,Criminal Justice,8.53,1
+113382,9,M,1979,BA    ,Environmental Studies,200,1
+113390,17,F,1988,BBA   ,Accounting,930,1
+113443,20,M,1980,BS    ,Biology,825,1
+113456,1,F,2007,MED   ,General Education,100,1
+113503,18,F,1989,BA    ,Broadcasting,500,1
+113514,11,M,1995,BBA   ,Accounting,1000,1
+113556,8,M,1981,BBA   ,Accounting,50,1
+113573,10,F,1991,MST   ,Taxation,100,1
+113578,26,F,2002,DNP   ,Nursing,8,1
+113648,1,F,2002,BA    ,GRO Social Studies,50,1
+113709,1,M,1995,MED   ,General Education,100,1
+113719,17,F,1999,BS    ,Political Science,50,1
+113837,6,F,2008,MED   ,General Education,150,1
+113855,3,F,1998,MSW   ,Social Work,50,1
+113874,7,M,1987,BBA   ,Facilities Management,25,1
+113938,13,F,2001,BS    ,Advertising & Public Relations,700,1
+114006,10,M,2005,MED   ,School Counseling,300,1
+114027,10,M,1990,BS    ,Biology,50,1
+114058,3,F,2002,MED   ,General Education,50,1
+114172,4,F,1998,BS    ,Physical Education,75,1
+114177,4,F,1991,BBA   ,Finance,20,1
+114180,7,M,1995,BS    ,GRO Soc Science,100,1
+114227,13,M,1997,BBA   ,Marketing,3000,1
+114233,53,F,1999,BA    ,Psychology,25,1
+114302,3,F,1992,BBA   ,Business General,50,1
+114350,5,M,2005,BBA   ,Marketing,50,1
+114373,6,F,2014,MED   ,Higher Education,25,1
+114428,28,M,1998,BS    ,Film and Video,25,1
+114429,6,F,1996,BBA   ,Accounting,25,1
+114441,48,F,2003,MBA   ,Business General,500,1
+114455,17,F,2000,MED   ,Special Education,1000,1
+114589,8,F,1998,MED   ,Reading,35,1
+114609,2,M,2000,BS    ,Health Science,100,1
+114635,4,F,2002,BA    ,Communications,10,1
+114673,7,F,1993,BSN   ,Nursing,25,1
+114688,2,F,1981,MED   ,General Education,50,1
+114741,9,F,1980,BBA   ,Accounting,50,1
+114799,8,F,1996,BS    ,Information Systems,1000,1
+114831,14,M,1987,BAS   ,Technology Management,100,1
+114835,83,F,1968,BS    ,Group Science,1000,1
+114845,13,M,1997,MBA   ,Business General,50,1
+114858,9,M,1987,BS    ,Computer Science,400,1
+114972,24,M,1978,BS    ,Physical Education,300,1
+114974,8,M,1987,BS    ,Computer Science,10,1
+115011,7,M,1980,BS    ,Art,20,1
+115030,1,M,1981,BBA   ,Accounting,100,1
+115039,12,M,1976,BBA   ,Business General,100,1
+115077,8,F,1989,BME   ,Music,100,1
+115107,8,F,1978,BS    ,Special Education,200,1
+115174,7,F,1975,BPH   ,Environmental Studies,150,1
+115239,49,M,2002,MBA   ,Business General,100,1
+115282,9,F,1991,BS    ,Physical Therapy,50,1
+115320,38,M,1981,BBA   ,Marketing,500,1
+115326,11,F,1978,BS    ,Economics,50,1
+115363,13,M,1983,MBA   ,Business General,650,1
+115370,54,M,1984,MSW   ,School Social Work,500,1
+115403,17,F,2003,DNP   ,Nursing,378,1
+115440,2,M,1995,MS    ,Physical Therapy,25,1
+115445,1,M,1982,BBA   ,Marketing,100,1
+115447,2,M,1987,BS    ,Chemistry,50,1
+115463,4,F,1998,MED   ,General Education,50,1
+115486,10,F,1982,BSN   ,Nursing,80,1
+115526,6,M,1994,BBA   ,Accounting,150,1
+115538,7,F,1990,BS    ,Economics,25,1
+115544,10,M,1995,BBA   ,Accounting,50,1
+115564,9,M,1992,BSN   ,Nursing,100,1
+115691,6,F,1985,BA    ,Psychology,50,1
+115697,7,M,1994,MBA   ,Business General,100,1
+115706,1,M,1996,MBA   ,Business General,100,1
+115736,3,F,1984,BBA   ,Marketing,50,1
+115745,5,F,1986,BS    ,Physical Therapy,50,1
+115763,11,F,1989,BS    ,Health Science,500,1
+115769,2,F,1989,BSN   ,Nursing,100,1
+115816,5,M,1997,MS    ,Computer Information Systems,250,1
+115860,10,F,1986,BBA   ,Accounting,300,1
+115910,15,F,1987,BS    ,Criminal Justice,75,1
+115912,7,F,1989,BS    ,Physical Therapy,75,1
+115975,2,M,2003,BSN   ,Nursing,50,1
+116038,9,M,1987,BBA   ,Accounting,250,1
+116125,8,M,1993,BBA   ,Finance,125,1
+116132,8,M,1993,BS    ,Mathematics,200,1
+116146,19,M,1992,BBA   ,Finance,300,1
+116179,34,F,2001,MPA   ,Public Administration,75,1
+116257,6,F,1998,MED   ,Reading,250,1
+116284,5,F,1989,BA    ,Psychology,60,1
+116339,11,F,1994,MED   ,General Education,300,1
+116381,9,M,1993,BBA   ,Management,150,1
+116467,8,F,2000,BBA   ,Accounting,150,1
+116468,13,F,1997,BS    ,Biomedical Sciences,230,1
+116542,2,M,2003,BS    ,Computer Science,10,1
+116631,8,F,2002,MPA   ,Public Administration,50,1
+116723,22,M,2005,BBA   ,Finance,150,1
+116805,8,M,1997,MBA   ,Business General,100,1
+116808,9,F,1975,MED   ,Special Education,100,1
+116847,5,M,1977,BS    ,Environmental Studies,10,1
+116862,10,F,1975,BSN   ,Nursing,100,1
+116928,2,M,1994,BBA   ,Business General,150,1
+116975,13,F,1999,MED   ,General Education,50,1
+117024,7,F,1992,BBA   ,Management,150,1
+117074,4,M,1979,BBA   ,Business General,75,1
+117098,5,F,1991,BSN   ,Nursing,10,1
+117113,9,F,1985,MED   ,Reading,100,1
+117199,14,M,1982,BS    ,Biology,400,1
+117222,11,F,1994,MS    ,Physical Therapy,100,1
+117226,8,M,1989,BS    ,Computer Science,200,1
+117288,4,F,1997,MSW   ,Social Work,20,1
+117310,7,F,1980,BS    ,Chemistry,2000,1
+117353,6,M,1985,BS    ,Computer Science,50,1
+117396,3,M,1989,MSN   ,Nursing,100,1
+117406,4,F,1985,BS    ,Computer Science,25,1
+117410,9,F,1979,BS    ,Natural Resource Management,100,1
+117490,3,M,1997,BS    ,Therapeutic Recreation,300,1
+117498,24,M,1987,MED   ,General Education,100,1
+117533,1,F,2000,BBA   ,Management,25,1
+117564,1,F,1990,MED   ,Reading,50,1
+117584,13,M,1998,BS    ,Physical Education,300,1
+117667,9,F,1996,MS    ,Occupational Therapy,50,1
+117700,4,F,1986,BS    ,Journalism,25,1
+117718,19,M,1997,MS    ,Physical Therapy,100,1
+117722,3,F,2000,MSW   ,Social Work,100,1
+117736,11,M,1997,BBA   ,Finance,100,1
+117747,9,F,1997,MPA   ,Public Administration,150,1
+117841,9,F,1997,MED   ,Special Education,150,1
+117882,55,M,2001,BBA   ,Management,25,1
+117945,6,F,2000,BBA   ,Management,1000,1
+118124,16,M,1994,BBA   ,Management,50,1
+118144,4,F,2003,BS    ,Biomedical Sciences,100,1
+118157,14,F,2003,MED   ,General Education,95,1
+118207,14,M,2002,BFA   ,Art,700,1
+118251,17,M,1999,BS    ,Mathematics,100,1
+118283,10,M,2003,BBA   ,Finance,50,1
+118316,53,F,2000,MST   ,Taxation,250,1
+118399,6,M,1979,BPH   ,Social Services,10,1
+118407,32,F,1978,MED   ,Reading,300,1
+118408,9,F,1993,BSN   ,Nursing - RN,30,1
+118465,8,M,1978,BBA   ,Business General,300,1
+118561,7,M,1980,MBA   ,Management,30,1
+118578,7,M,1977,BS    ,Social Relations,30,1
+118580,6,M,1980,BBA   ,Finance,300,1
+118619,13,M,1978,BBA   ,Business General,300,1
+118651,5,F,1977,BS    ,Biopsychology,300,1
+118693,6,M,1980,BS    ,Mathematics,5,1
+118699,9,F,1981,BS    ,Biology,100,1
+118722,8,M,1978,BS    ,Chemistry,150,1
+118796,11,M,1993,BS    ,Computer Science,1000,1
+118814,16,M,1990,MBA   ,Accounting,100,1
+118859,8,M,1998,MED   ,General Education,70,1
+118866,5,M,1980,BS    ,Physical Education,100,1
+118918,20,F,1994,BS    ,Advertising & Public Relations,250,1
+118933,12,M,1988,BS    ,Physical Education,300,1
+118934,4,M,2001,BS    ,Group Science,50,1
+118956,9,F,1993,BS    ,Photography,10,1
+118972,18,M,1995,MBA   ,Marketing,950,1
+118992,6,F,1980,BBA   ,Accounting,50,1
+119001,11,M,1982,BS    ,Criminal Justice,350,1
+119004,12,F,1981,MSN   ,Nursing,25,1
+119036,13,M,1987,BS    ,Broadcasting,1000,1
+119085,14,M,1981,BBA   ,Accounting,50,1
+119088,27,F,1981,MSN   ,Nursing,17000,1
+119117,4,M,1997,BBA   ,Marketing,25,1
+119131,5,M,1998,BBA   ,Accounting,50,1
+119138,9,F,1988,BS    ,Health Science,100,1
+119148,8,F,1997,MS    ,Physical Therapy,600,1
+119200,4,F,1982,BS    ,Physical Education,50,1
+119202,15,M,1990,BBA   ,Management,1000,1
+119234,4,M,1992,BBA   ,Management,300,1
+119249,12,F,1986,BBA   ,Business General,500,1
+119393,6,M,1990,BBA   ,Marketing,80,1
+119411,10,F,1991,BS    ,Film and Video,200,1
+119418,12,M,1991,BA    ,International Relations,100,1
+119441,4,F,2002,BSE   ,Engineering,50,1
+119531,11,F,2001,BBA   ,International Business,500,1
+119547,13,M,2003,BBA   ,Accounting,700,1
+119638,14,M,2001,BS    ,Mathematics,50,1
+119691,2,F,1998,MS    ,Criminal Justice,45,1
+119698,8,M,2007,BS    ,Computer Science,100,1
+119743,10,F,1994,MBA   ,Business General,100,1
+119755,18,M,1995,BS    ,Film and Video,165,1
+119789,10,F,1997,BS    ,Mathematics,100,1
+119795,9,F,1996,BS    ,Psychology,5,1
+119812,9,F,2008,BS    ,Psychology,21,1
+119849,5,M,2002,BS    ,Biomedical Sciences,1000,1
+119872,3,F,2001,BS    ,GRO Social Studies,5,1
+119888,79,F,1997,MPA   ,Public Administration,65.95,1
+119892,2,M,1995,BS    ,Health Science,339.2,1
+119917,6,M,1996,BBA   ,Accounting,50,1
+119936,2,F,2000,BS    ,Psychology,50,1
+119986,2,F,1998,BA    ,English Language and Literature,20,1
+120015,13,M,2007,BA    ,Political Science,100,1
+120027,18,F,2000,BS    ,Mathematics,150,1
+120029,12,M,1995,BS    ,Biology,300,1
+120042,7,F,1998,BS    ,Hospitality Tourism Mgt,25,1
+120048,4,F,2000,BS    ,Sociology,238,1
+120057,6,F,2002,BSN   ,Nursing,476.67,1
+120073,9,M,1997,MBA   ,Business General,300,1
+120117,34,M,2000,BBA   ,Management,25,1
+120147,8,F,2000,BA    ,Advertising & Public Relations,25,1
+120172,3,F,2001,BBA   ,Business General,80,1
+120351,8,F,2002,BSN   ,Nursing - RN,5,1
+120363,4,F,1995,MHS   ,Health Science,50,1
+120382,20,F,1976,BBA   ,Business General,100,1
+120494,8,F,1978,BS    ,Social Relations,30,1
+120528,7,M,1989,BS    ,Biology,160,1
+120536,7,F,1986,BS    ,Mathematics,25,1
+120547,9,M,1981,BS    ,Hospitality Tourism Mgt,50,1
+120576,23,M,1981,BBA   ,Business General,250,1
+120580,9,M,1979,BBA   ,Accounting,300,1
+120674,27,M,1993,BBA   ,Finance,125,1
+120703,3,M,1997,BS    ,Psychology,5,1
+120756,1,M,1991,MED   ,General Education,50,1
+120836,8,M,2001,MSW   ,Social Work,50,1
+120905,4,F,1999,BA    ,Spanish,25,1
+120948,5,M,1999,MED   ,General Education,50,1
+120979,5,M,1985,BBA   ,Facilities Management,1000,1
+121076,5,M,1992,MBA   ,Business General,25,1
+121101,4,F,1987,BSN   ,Nursing,100,1
+121117,17,M,1984,BBA   ,Finance,1450,1
+121159,4,M,1987,BS    ,Engineering Science,50,1
+121160,25,M,1988,BBA   ,Business General,300,1
+121163,5,F,1999,BS    ,Health Science,238.34,1
+121176,11,F,2003,BS    ,Psychology,100,1
+121178,10,F,1997,BA    ,History,50,1
+121326,9,M,2002,BS    ,Mathematics,100,1
+121443,5,M,2002,BA    ,Broadcasting,100,1
+121464,10,M,1991,MS    ,Computer Information Systems,500,1
+121474,24,M,1998,BS    ,Hospitality Tourism Mgt,25,1
+121478,3,F,1998,BBA   ,Finance,50,1
+121489,11,F,2004,BSN   ,Nursing,100,1
+121519,10,F,1991,BBA   ,Facilities Management,100,1
+121522,6,F,1994,MED   ,Special Education,25,1
+121530,9,M,2002,BS    ,Mathematics,100,1
+121620,4,F,2001,BS    ,Sociology,25,1
+121631,9,M,2001,BBA   ,Accounting,100,1
+121725,2,F,1997,BS    ,Advertising & Public Relations,100,1
+121734,19,M,1999,BBA   ,Accounting,500,1
+121773,23,M,2001,BBA   ,Accounting,400,1
+121844,13,M,2002,BS    ,Public Administration,500,1
+121937,7,M,1986,BS    ,Health Science,50089.8,1
+121980,15,F,1978,BS    ,Mathematics,500,1
+121986,4,M,1986,MED   ,General Education,100,1
+121995,8,F,1985,BS    ,Language Arts,100,1
+122034,17,M,1986,BS    ,Public Administration,300,1
+122047,23,M,1999,MPA   ,Public Administration,20,1
+122053,8,M,1991,BBA   ,Management,200,1
+122072,22,M,1977,MS    ,Computer Information Systems,500,1
+122111,11,M,1979,BBA   ,Management,10000,1
+122156,8,F,1986,BBA   ,Accounting,100,1
+122166,10,M,1988,BS    ,Advertising & Public Relations,500,1
+122191,12,M,1995,BS    ,Geology,300,1
+122200,29,M,1978,BS    ,Criminal Justice,1050,1
+122201,12,F,1988,BSN   ,Nursing,100,1
+122216,3,M,1977,BBA   ,Accounting,100,1
+122232,10,M,1977,BS    ,Biology,100,1
+122242,6,F,1990,MBA   ,Business General,25,1
+122249,27,M,1982,BBA   ,Business General,3000,1
+122284,9,M,1980,BS    ,Chemistry,10000,1
+122311,8,M,1978,BS    ,Criminal Justice,50,1
+122321,6,M,1978,BS    ,Criminal Justice,50,1
+122387,6,F,1997,BA    ,English Language and Literature,50,1
+122458,4,F,1988,MBA   ,Business General,25,1
+122508,16,F,1990,BS    ,Health Science,1000,1
+122510,12,F,1983,BA    ,Political Science,250,1
+122648,16,M,1996,BBA   ,Management,40,1
+122659,18,F,1981,BS    ,Criminal Justice,200,1
+122723,8,M,1980,BS    ,Mathematics,100,1
+122757,18,M,1995,MBA   ,Business General,100,1
+122764,10,M,1985,BS    ,Mathematics,300,1
+122833,4,M,1995,MED   ,Special Education,100,1
+122847,10,F,1999,BBA   ,Marketing,100,1
+122879,7,F,1993,MED   ,General Education,150,1
+122896,10,F,1993,MST   ,Taxation,200,1
+122925,4,F,1996,BBA   ,Marketing,150,1
+123020,7,M,1988,BBA   ,Marketing,100,1
+123022,6,M,1992,BS    ,Computer Science,50,1
+123030,5,F,1987,BS    ,Public Administration,75,1
+123038,7,F,1987,BS    ,Health Science,50,1
+123047,13,F,1997,BS    ,Information Systems,100,1
+123068,7,F,1988,BS    ,Health Science,300,1
+123090,14,M,2002,BBA   ,Finance,500,1
+123125,9,F,1987,BS    ,Therapeutic Recreation,50,1
+123147,8,F,1991,BS    ,Public Administration,50,1
+123160,10,M,1991,BS    ,Geology,300,1
+123169,7,M,1998,BS    ,Psychology,35,1
+123210,3,F,1997,MED   ,General Education,50,1
+123221,7,F,2000,BA    ,German,75,1
+123238,5,M,2000,BA    ,English Language and Literature,50,1
+123248,18,M,2001,MBA   ,Business General,50,1
+123397,16,F,2000,BS    ,Biomedical Sciences,200,1
+123428,9,F,1999,BS    ,Group Science,50,1
+123465,3,F,2001,MED   ,School Counseling,50,1
+123511,12,F,1996,BBA   ,Accounting,100,1
+123528,5,F,2002,MBA   ,Business General,50,1
+123536,9,F,1996,BS    ,Criminal Justice,200,1
+123562,1,F,1996,BS    ,Hospitality Tourism Mgt,25,1
+123568,4,F,2000,BSN   ,Nursing,25,1
+123578,15,M,2007,BS    ,Natural Resource Management,50,1
+123595,10,M,2005,MED   ,General Education,25,1
+123684,2,F,2001,BS    ,Health Communication,25,1
+123755,7,M,1998,BFA   ,Art,10,1
+123849,19,M,1977,BS    ,Art,3000,1
+123886,8,M,1976,MBA   ,Business General,200,1
+123925,24,F,1986,MPA   ,Public Administration,1002.5,1
+123999,31,F,1990,MPA   ,Public Administration,25,1
+124009,5,F,1992,MSW   ,Social Work,50,1
+124017,2,F,1972,MED   ,Reading,50,1
+124044,34,M,2005,BA    ,Liberal Studies,1070,1
+124047,13,F,1983,PMCE  ,,300,1
+124049,9,M,1993,BSN   ,Nursing,100,1
+124057,7,F,1984,BS    ,Nursing,60,1
+124071,14,F,1998,BS    ,Legal Studies,100,1
+124085,11,F,1991,BBA   ,Business General,500,1
+124138,6,F,1980,BS    ,Social Relations,30,1
+124182,18,F,1987,BS    ,GRO Soc Science,35,1
+124216,9,F,1979,BS    ,Music,15,1
+124308,14,M,1988,BS    ,Criminal Justice,450,1
+124371,9,M,1991,MS    ,Computer Information Systems,200,1
+124427,4,F,1981,BBA   ,Accounting,200,1
+124469,4,F,1987,BSN   ,Nursing,50,1
+124497,2,F,1989,BS    ,Chemistry,50,1
+124554,16,F,1996,BA    ,International Relations,50,1
+124574,24,M,1985,BS    ,Physical Education,170,1
+124609,19,M,1999,BS    ,Biomedical Sciences,200,1
+124635,7,F,2000,BS    ,Psychology,25,1
+124651,13,M,2000,BBA   ,Marketing,400,1
+124652,6,F,1983,MED   ,General Education,25,1
+124731,8,F,1997,BA    ,Criminal Justice,25,1
+124774,14,F,2004,MBA   ,Business General,250,1
+124775,7,F,2004,MPA   ,Public Administration,25,1
+124788,9,F,1996,BA    ,English Language and Literature,25,1
+124790,10,M,1984,BBA   ,Marketing,15,1
+124882,7,F,1991,BA    ,Anthropology,100,1
+124897,12,M,1989,BS    ,Criminal Justice,1000,1
+124917,4,F,1989,BS    ,Legal Studies,100,1
+124929,151,F,1988,BS    ,Communications,28620.42,1
+124939,5,M,1992,BBA   ,Finance,200,1
+124987,8,M,1997,BA    ,English Language and Literature,50,1
+125077,7,M,2005,BBA   ,Finance,50,1
+125118,11,F,1991,MED   ,General Education,50,1
+125226,14,F,1995,BA    ,Philosophy,3195.77,1
+125232,9,F,2001,MED   ,General Education,170,1
+125233,15,F,2000,BSW   ,Social Work,10000,1
+125316,2,M,2002,BA    ,Film and Video,20,1
+125324,6,F,2003,BSW   ,Social Work,35,1
+125358,1,F,2002,BSN   ,Nursing,50,1
+125410,21,F,2008,BA    ,Mathematics,450,1
+125469,20,F,1977,BS    ,Behavioral Science,100,1
+125471,5,F,1990,BS    ,GRP SS Psych,50,1
+125581,8,F,1980,BA    ,Accounting,100,1
+125590,17,M,1977,BS    ,Group Science,200,1
+125608,7,M,1978,BS    ,Urban Education,100,1
+125697,6,M,1984,BS    ,Chemistry,50,1
+125805,1,F,1983,MED   ,Special Education,50,1
+125857,7,M,1982,MED   ,Special Education,100,1
+125859,2,M,1981,BS    ,Biology,150,1
+125923,1,M,1977,BBA   ,Management,100,1
+125948,1,F,1978,BPH   ,Environmental Studies,35,1
+125973,6,F,1993,BA    ,English Language and Literature,50,1
+125974,10,F,1988,MED   ,General Education,55,1
+126020,8,F,1999,MS    ,Physical Therapy,100,1
+126043,6,F,1997,BA    ,GRO Soc Science,100,1
+126056,1,M,1978,BBA   ,Business General,50,1
+126070,6,F,1995,BBA   ,Accounting,1000,1
+126123,9,M,1998,MED   ,General Education,100,1
+126188,26,F,1980,BA    ,Therapeutic Recreation,300,1
+126203,28,F,1990,BS    ,Public Administration,25,1
+126274,11,M,1980,BS    ,Public Administration,200,1
+126298,10,F,1986,BS    ,Health Science,400,1
+126299,10,M,1986,BS    ,Political Science,500,1
+126328,4,F,1993,BSE   ,Engineering,300,1
+126342,17,M,1995,BSE   ,Engineering,250,1
+126374,2,F,1988,BSN   ,Nursing,25,1
+126453,9,F,2000,MED   ,General Education,500,1
+126456,7,F,1985,MBA   ,Management,1500,1
+126457,4,F,2001,BS    ,Criminal Justice,30,1
+126479,5,M,1984,BS    ,Psychology,150,1
+126533,8,F,1987,BS    ,Language Arts,100,1
+126589,3,M,1986,BBA   ,Marketing,300,1
+126608,8,M,2002,BS    ,Psychology,50,1
+126818,5,M,1997,MST   ,Taxation,750,1
+126824,36,F,2002,MPAS  ,Physician Assistant Studies,610,1
+126837,10,F,2006,BS    ,Psychology,10,1
+126908,8,M,1999,BS    ,Biomedical Sciences,500,1
+126910,95,M,1998,BBA   ,Finance,250,1
+126911,19,M,2003,BS    ,Computer Science,500,1
+126924,8,M,2002,BA    ,International Relations,1200,1
+127027,6,M,2004,BS    ,Biomedical Sciences,200,1
+127037,2,F,2000,BBA   ,Finance,20,1
+127050,8,M,1999,BS    ,Group Science,100,1
+127132,72,M,2001,BS    ,Legal Studies,725,1
+127159,2,M,2001,BBA   ,Finance,100,1
+127197,14,M,2004,BBA   ,Business Economics,350,1
+127219,16,M,2003,BS    ,GRO Social Studies,25,1
+127266,6,F,2002,BBA   ,Business General,25,1
+127303,7,M,2007,BS    ,Chemistry,50,1
+127315,13,F,1983,BS    ,Computer Science,50,1
+127401,2,M,2003,MS    ,Computer Information Systems,20,1
+127408,4,F,1998,BSN   ,Nursing,50,1
+127474,2,F,1982,BS    ,Social Relations,25,1
+127477,10,M,1990,BBA   ,Marketing,100,1
+127518,11,M,1977,BS    ,Sociology,45,1
+127549,17,M,1987,BS    ,Physical Education,500,1
+127593,5,F,1990,MPA   ,Public Administration,100,1
+127602,2,M,1979,BS    ,Art,100,1
+127710,7,F,1979,BS    ,Chemistry,1000,1
+127734,1,F,2004,MED   ,General Education,100,1
+127759,11,M,1978,BA    ,German,50,1
+127776,23,F,1980,BS    ,Group SS Soc,1500,1
+127789,12,F,1991,PRCE  ,,10,1
+127815,14,M,1991,BS    ,History,1000,1
+127833,26,M,1978,BBA   ,Accounting,300,1
+127892,1,F,1983,BS    ,Social Relations,20,1
+127965,5,F,1982,BS    ,Nursing,35,1
+128009,4,F,1980,BS    ,Biology,50,1
+128016,8,F,1980,BBA   ,Accounting,50,1
+128034,8,M,1993,MBA   ,Business General,300,1
+128086,10,F,1996,BBA   ,Management,100,1
+128110,6,F,1996,MED   ,General Education,100,1
+128111,8,M,1982,BBA   ,Accounting,150,1
+128248,18,F,1996,MED   ,General Education,70,1
+128325,27,F,1988,BS    ,Advertising & Public Relations,750,1
+128343,14,F,1992,BS    ,Advertising & Public Relations,500,1
+128389,3,M,1989,BS    ,Criminal Justice,100,1
+128390,3,F,1999,BS    ,Psychology,50,1
+128433,4,F,1990,BS    ,GRP SS Psych,5,1
+128483,13,M,1999,BS    ,Information Systems,50,1
+128494,22,M,1990,BS    ,Biology,930,1
+128516,10,F,1990,BS    ,Psychology,100,1
+128556,5,F,2001,BS    ,Health Science,50,1
+128617,12,M,1989,BS    ,Political Science,550,1
+128644,4,M,1993,BS    ,Biomedical Sciences,100,1
+128664,18,M,2006,MBA   ,Business General,150,1
+128669,33,M,2006,MBA   ,Business General,150,1
+128750,7,F,1994,MSA   ,Accounting,125,1
+128817,24,M,2004,BBA   ,Marketing,600,1
+128840,38,F,2000,BS    ,Psychology,25,1
+128891,7,M,2002,BS    ,Liberal Studies,50,1
+128954,12,M,2005,MS    ,Communications,10,1
+129079,3,F,1988,MBA   ,Accounting,100,1
+129089,6,M,1988,MST   ,Taxation,250,1
+129094,8,F,1980,BS    ,Special Education,50,1
+129100,7,F,1982,MED   ,Reading,100,1
+129107,40,F,1985,PMCE  ,,650,1
+129115,4,M,1982,MBA   ,Finance,100,1
+129135,11,M,1973,BS    ,Psychology,200,1
+129142,9,F,1971,BA    ,GRP SS Hist,50,1
+129148,11,M,1979,BS    ,Physical Education,5,1
+129269,33,M,1977,BS    ,Social Relations,70,1
+129287,11,F,1988,BS    ,Physical Education,75,1
+129289,17,M,1979,BS    ,Biology,2500,1
+129348,9,M,1991,MBA   ,Business General,25,1
+129379,8,M,2003,BBA   ,Management,50,1
+129401,3,F,1990,BBA   ,Management,100,1
+129413,14,F,1988,BS    ,Hospitality Tourism Mgt,500,1
+129453,6,M,1994,BBA   ,Management,50,1
+129473,16,M,1978,MPA   ,Public Administration,50,1
+129561,1,F,1992,MED   ,General Education,20,1
+129583,12,M,1990,BBA   ,Business General,50,1
+129616,12,M,1983,BS    ,Physical Education,500,1
+129627,16,M,1987,BBA   ,Accounting,150,1
+129650,17,M,1988,BS    ,Political Science,500,1
+129662,4,F,1984,BS    ,Nursing,25,1
+129729,7,M,1993,BS    ,Hospitality Tourism Mgt,150,1
+129789,7,F,1992,MBA   ,Business General,100,1
+129797,29,F,1986,BS    ,Broadcasting,2000,1
+129804,8,M,1993,BBA   ,Marketing,50,1
+129807,7,F,1997,MSN   ,Nursing,1000,1
+129808,15,F,1989,BSN   ,Nursing,250,1
+129880,7,F,1995,MSW   ,Social Work,25,1
+129957,6,M,1991,BS    ,Liberal Studies,150,1
+129960,22,M,2007,BS    ,Advertising & Public Relations,775,1
+130042,4,F,1991,MED   ,School Counseling,15,1
+130067,9,M,2001,BS    ,Earth Science,100,1
+130081,8,M,1991,BS    ,Computer Science,400,1
+130132,3,F,1991,BBA   ,Business General,25,1
+130148,107,M,2002,BBA   ,Finance,225,1
+130151,8,M,1997,BS    ,Communications,50,1
+130156,14,M,1991,BS    ,Physical Education,50,1
+130158,7,F,1995,MSW   ,Social Work,50,1
+130196,1,F,1992,MED   ,Special Education,100,1
+130258,5,M,2008,BA    ,Spanish,100,1
+130277,10,F,2002,BSN   ,Nursing,50,1
+130280,112,F,2007,BA    ,Broadcasting,25,1
+130295,17,F,2001,BS    ,Biology,200,1
+130303,13,M,1998,BBA   ,Accounting,550,1
+130338,3,F,2000,BBA   ,Marketing,150,1
+130418,102,F,2001,BBA   ,Management,550,1
+130463,39,M,1995,BA    ,International Relations,500,1
+130584,7,M,2002,BSE   ,Engineering,100,1
+130612,17,F,2003,BS    ,Advertising & Public Relations,600,1
+130627,67,F,2007,MPA   ,Public Administration,30,1
+130651,18,M,1982,MPA   ,Public Administration,115,1
+130652,8,F,1980,MED   ,Special Education,10,1
+130745,5,F,1983,MED   ,General Education,20,1
+130750,3,M,1977,BS    ,Natural Resource Management,250,1
+130778,9,F,1981,BS    ,Special Education,25,1
+130779,8,F,1980,BS    ,Nursing,100,1
+130819,13,M,1978,MBA   ,Finance,200,1
+130945,11,M,1987,BBA   ,Management,125,1
+130959,24,M,1982,BS    ,Natural Resource Management,200,1
+130960,11,M,1987,BS    ,Industrial Technology,25,1
+130971,7,F,1987,BS    ,Physical Therapy,100,1
+131050,6,F,1990,MED   ,Reading,50,1
+131077,4,F,1984,BS    ,Computer Science,50,1
+131080,3,M,1999,BA    ,English Language and Literature,25,1
+131146,10,F,1997,MPA   ,Public Administration,150,1
+131160,6,F,1988,BSN   ,Nursing,75,1
+131207,4,M,1993,MPAS  ,Physician Assistant Studies,600,1
+131306,6,F,1978,BSW   ,Social Work,100,1
+131319,10,M,1995,BA    ,Music,10,1
+131330,3,M,1985,BS    ,Art,25,1
+131340,3,F,1994,BS    ,Health Science,20,1
+131430,13,F,2000,BS    ,Natural Resource Management,30,1
+131452,6,F,1990,BS    ,Therapeutic Recreation,50,1
+131489,8,F,1983,BS    ,Psychology,25,1
+131499,7,M,1995,MSW   ,Social Work,15,1
+131525,4,F,1998,BSN   ,Nursing,50,1
+131560,5,F,1989,MED   ,Special Education,100,1
+131567,19,M,1998,BSE   ,Engineering,400,1
+131589,10,M,1982,BBA   ,Management,275,1
+131593,6,F,1984,BS    ,Criminal Justice,100,1
+131615,4,M,1990,BBA   ,Marketing,1500,1
+131647,8,F,1996,BA    ,Chemistry,50,1
+131721,2,M,1991,BS    ,Biomedical Sciences,100,1
+131725,12,M,1987,MPA   ,Public Administration,150,1
+131729,11,F,2002,BS    ,Mathematics,50,1
+131737,4,M,2003,BS    ,Information Systems,50,1
+131749,5,F,1992,BS    ,Sociology,50,1
+131773,10,F,1997,MED   ,General Education,100,1
+131779,9,M,1999,BA    ,Spanish,500,1
+131783,9,F,1987,BS    ,Physical Therapy,200,1
+131806,2,M,1986,BS    ,Public Administration,250,1
+131809,22,F,2002,BSN   ,Nursing,500,1
+131817,3,F,1994,BS    ,Physical Education,125,1
+131854,5,F,2001,BS    ,Anthropology,150,1
+131855,2,M,1995,BBA   ,Management,1000,1
+131886,10,M,2003,BBA   ,Accounting,100,1
+131891,8,M,1989,MPA   ,Public Administration,100,1
+131904,19,M,2005,MED   ,General Education,110.09,1
+131927,7,M,1988,BBA   ,Finance,250,1
+131940,3,M,1998,BS    ,Health Science,50,1
+132037,13,M,1997,BBA   ,Marketing,100,1
+132042,2,F,1995,BS    ,Computer Science,50,1
+132063,12,M,1997,BBA   ,Accounting,1000,1
+132126,9,F,1993,BBA   ,Business General,100,1
+132191,12,M,1994,BBA   ,Finance,100,1
+132239,6,F,1995,BS    ,Advertising & Public Relations,50,1
+132254,11,M,1998,BA    ,History,40,1
+132301,10,F,2002,BSN   ,Nursing,50,1
+132305,5,F,2001,BA    ,Art,200,1
+132308,1,F,2002,BS    ,Biomedical Sciences,150,1
+132338,7,F,1998,BBA   ,Marketing,550,1
+132364,2,M,2002,BS    ,Health Science,25,1
+132408,18,F,1996,BBA   ,Accounting,250,1
+132418,7,M,1992,MBA   ,Finance,50,1
+132459,11,M,1975,MBA   ,Marketing,100,1
+132496,9,M,1976,BS    ,Mathematics,100,1
+132510,9,M,1980,BS    ,Chemistry,100,1
+132544,9,F,1979,BS    ,Social Relations,50,1
+132612,5,F,1990,BS    ,Chemistry,50,1
+132680,5,M,1977,BBA   ,Business General,200,1
+132693,4,M,1989,BS    ,Physical Therapy,50,1
+132698,30,M,1979,BS    ,Physical Education,1500,1
+132736,7,F,1993,MPA   ,Public Administration,30,1
+132752,20,F,1979,BS    ,Physical Education,300,1
+132812,1,F,1991,MED   ,Reading,100,1
+132875,5,F,1980,BFA   ,Art,20,1
+132922,12,M,1991,BBA   ,Management,100,1
+132933,11,F,1990,MBA   ,Management,300,1
+132937,9,M,1989,BS    ,Geology,20,1
+132940,3,F,1990,BS    ,Psychology,25,1
+132966,10,M,1981,BME   ,Music,25,1
+132972,9,M,1979,MBA   ,Business General,500,1
+132982,9,M,1996,BSE   ,Engineering,100,1
+133019,9,F,1998,MED   ,General Education,50000,1
+133020,8,M,1993,MSW   ,Social Work,150,1
+133052,9,M,1981,BS    ,Psychology,300,1
+133057,9,M,1982,MED   ,Special Education,70,1
+133083,6,M,1998,BS    ,Psychology,50,1
+133103,10,F,1994,BBA   ,Accounting,1500,1
+133104,12,M,1982,MBA   ,Accounting,1000,1
+133205,11,M,1983,BBA   ,Management,80,1
+133217,3,F,1985,BS    ,Nursing,100,1
+133251,4,F,1986,BS    ,Art,14.4,1
+133265,7,F,1981,BS    ,Physical Education,150,1
+133290,10,F,1985,BS    ,Physical Education,35,1
+133304,3,F,1999,BS    ,Physical Education,200,1
+133309,5,M,1987,BS    ,Computer Science,100,1
+133310,5,F,1997,MED   ,General Education,50,1
+133352,14,M,1987,BBA   ,Facilities Management,100,1
+133373,16,F,1983,BS    ,Computer Science,3035,1
+133418,15,F,1985,BBA   ,Marketing,400,1
+133456,11,F,2003,BBA   ,Marketing,20,1
+133493,7,F,1985,BS    ,GRP SS Hist,50,1
+133508,3,M,1994,BA    ,English Language and Literature,70,1
+133510,1,F,1990,MED   ,Reading,100,1
+133549,7,M,1989,BBA   ,Accounting,100,1
+133570,4,F,1990,BA    ,GRP SS Psych,25,1
+133591,1,F,1985,MED   ,Reading,25,1
+133592,3,M,2000,BS    ,Geology,75,1
+133653,25,F,2003,BS    ,Health Science,600,1
+133867,8,M,2001,BBA   ,Management,75,1
+133910,1,M,1995,BBA   ,Management,25,1
+133924,8,F,1991,BS    ,Biomedical Sciences,100,1
+133926,6,M,1994,BBA   ,Marketing,300.02,1
+133980,5,M,2002,BS    ,Criminal Justice,25,1
+133996,9,F,2006,BSE   ,Engineering,40,1
+134014,1,F,2004,BA    ,Russian Studies,50,1
+134059,2,F,2005,BBA   ,International Business,100,1
+134069,33,F,2002,BSN   ,Nursing,1330,1
+134153,12,F,1995,MED   ,General Education,1200,1
+134160,17,M,2002,BS    ,Geography,500,1
+134170,5,F,2003,BBA   ,Accounting,100,1
+134200,4,F,2002,BA    ,Spanish,5,1
+134240,12,M,2004,BBA   ,Marketing,300,1
+134312,8,F,1986,BBA   ,Accounting,25,1
+134323,6,F,1993,BA    ,English Language and Literature,25,1
+134334,14,M,1988,MED   ,General Education,100,1
+134354,3,F,1993,BBA   ,Accounting,30,1
+134358,78,M,1967,BA    ,GRP SS Hist,550,1
+134361,9,M,1986,MED   ,Special Education,175,1
+134362,7,F,1981,BS    ,Geology,25,1
+134374,11,M,1977,BA    ,Psychology,150,1
+134390,9,M,1980,BS    ,Criminal Justice,50,1
+134434,12,M,1985,BS    ,Computer Science,26,1
+134446,9,F,1982,MST   ,Taxation,100,1
+134493,14,F,1994,MED   ,General Education,100,1
+134542,2,F,1991,MBA   ,Management,25,1
+134579,2,F,1989,BBA   ,Accounting,50,1
+134631,2,F,1995,MBA   ,Business General,25,1
+134650,15,M,1979,BBA   ,Management,100,1
+134662,4,M,1979,BS    ,Physics,75,1
+134668,12,F,2003,BS    ,Statistics,500,1
+134712,5,F,2010,BS    ,Communication Studies,10,1
+134745,16,M,1982,BS    ,Financial Inst. Ins. Real Estate,75,1
+134755,1,M,2000,MST   ,Taxation,100,1
+134758,9,F,1978,MED   ,Special Education,50,1
+134760,10,F,1978,BA    ,Sociology,250,1
+134794,3,M,1981,BS    ,Nursing,150,1
+134798,9,M,1984,BS    ,Chemistry,70,1
+134854,4,F,2001,MED   ,Special Education,100,1
+134893,39,F,1992,MS    ,Communications,50,1
+134932,28,M,1982,BS    ,Criminal Justice,100,1
+135166,6,F,1986,BS    ,GRP SS Psych,50,1
+135213,8,F,1985,MED   ,General Education,300,1
+135232,20,F,2002,BS    ,Health Science,250,1
+135237,7,F,2000,BSN   ,Nursing,110,1
+135240,4,F,2003,BS    ,Physical Education,50,1
+135293,3,M,1993,BBA   ,Finance,120,1
+135348,6,F,2001,DNP   ,Nursing,25,1
+135354,11,M,1996,BA    ,Political Science,150,1
+135375,9,F,1988,BBA   ,Management,500,1
+135380,13,M,1991,BBA   ,Marketing,300,1
+135390,4,F,2000,MS    ,Occupational Therapy,125,1
+135416,3,M,1997,MST   ,Taxation,20,1
+135439,9,F,2001,BBA   ,Management,230,1
+135467,12,F,1989,BSN   ,Nursing,50,1
+135472,8,F,2005,BS    ,Physical Education,50,1
+135508,7,M,1995,BS    ,Geology,200,1
+135510,9,M,1990,BBA   ,Finance,125,1
+135572,9,F,1998,BS    ,Advertising & Public Relations,50,1
+135583,4,F,2001,MPAS  ,Physician Assistant Studies,50,1
+135665,16,M,1992,BBA   ,Management,1000,1
+135692,15,M,2004,MPA   ,Public Administration,50,1
+135830,10,F,2004,BSN   ,Nursing,150,1
+135833,8,F,2002,BS    ,Health Science,25,1
+135841,10,M,2001,BS    ,Earth Science,50,1
+135857,8,F,1995,BA    ,English Language and Literature,50,1
+135911,12,M,1996,BS    ,Physical Education,25,1
+136134,9,F,2004,BS    ,Physical Education,10,1
+136189,5,F,1997,MED   ,Special Education,50,1
+136199,16,F,1985,BBA   ,Accounting,400,1
+136237,8,M,1979,BBA   ,Marketing,50,1
+136245,4,M,1981,MSW   ,School Social Work,50,1
+136268,83,F,1978,MBA   ,Management,5100,1
+136280,3,M,1992,BSE   ,Engineering,50,1
+136285,19,F,1981,BS    ,Natural Resource Management,1000,1
+136348,10,F,1991,BA    ,English Language and Lit,35,1
+136351,28,M,1971,MBA   ,Finance,500,1
+136356,4,F,1981,MST   ,Taxation,100,1
+136405,23,F,1992,BS    ,Health Science,250,1
+136431,20,M,1977,BS    ,Physical Education,50,1
+136445,13,F,1980,BBA   ,Accounting,300,1
+136475,11,F,1999,BBA   ,Management,110,1
+136548,5,M,1990,BBA   ,Marketing,100,1
+136600,4,F,2003,BBA   ,Management,25,1
+136615,13,M,1983,BS    ,Art,300,1
+136639,9,M,1993,BS    ,Physical Education,50,1
+136641,119,F,1999,MPA   ,Public Administration,440,1
+136710,10,F,1980,BS    ,GRP SS Hist,10,1
+136898,6,F,1992,MED   ,General Education,125,1
+136954,3,F,2003,BS    ,Group Science,476.67,1
+136960,6,F,1993,BS    ,Physical Education,25,1
+136997,8,M,1984,BS    ,Political Science,500,1
+137015,4,F,1999,MED   ,School Counseling,20,1
+137034,12,F,1995,MS    ,Communications,30,1
+137110,248,M,1988,BS    ,Broadcasting,25,1
+137122,2,M,2003,BS    ,Health Science,100,1
+137155,2,M,1993,BS    ,Physical Education,100,1
+137163,8,M,1987,BFA   ,Art,50,1
+137171,4,M,2000,MBA   ,Business General,50,1
+137254,10,F,1987,BFA   ,Art,20,1
+137367,8,M,1997,BS    ,Physics,2000,1
+137393,9,M,1991,BBA   ,Marketing,20,1
+137399,11,M,1998,BFA   ,Art,200,1
+137408,6,M,2000,MBA   ,Business General,20,1
+137425,10,M,2002,BBA   ,Marketing,300,1
+137508,10,F,1993,BS    ,Psychology,100,1
+137628,3,F,1999,MS    ,Physical Therapy,100,1
+137709,20,F,1982,BA    ,Language Arts,525,1
+137748,12,M,1985,MBA   ,Marketing,1000,1
+137788,8,M,2002,BS    ,Physical Education,100,1
+137957,9,M,1985,MBA   ,Management,250,1
+138003,55,M,1979,BS    ,Art,580,1
+138061,1,F,2002,BS    ,Psychology,20,1
+138103,9,F,1990,BS    ,Communications,75,1
+138117,8,M,1993,MS    ,Computer Information Systems,100,1
+138122,3,F,1995,BBA   ,Finance,25,1
+138128,5,M,1997,BS    ,Psychology,10,1
+138138,7,F,1979,MA    ,Urban Education,500,1
+138152,7,M,1979,MA    ,Urban Education,500,1
+138221,13,F,1972,BS    ,Psychology,150,1
+138224,3,F,1990,BBA   ,Accounting,70,1
+138227,9,M,2002,BBA   ,Management,238.34,1
+138364,15,M,1985,BS    ,Occup Safety/Health Management,300,1
+138388,7,F,1981,BS    ,Art,100,1
+138472,1,M,1998,MED   ,General Education,25,1
+138494,5,F,1993,MED   ,Special Education,550,1
+138528,7,F,1995,BS    ,Psychology,25,1
+138544,9,M,1976,MPA   ,Public Administration,600,1
+138576,7,F,1981,BS    ,Music,75,1
+138635,4,M,2003,MPAS  ,Physician Assistant Studies,50,1
+138669,9,M,1996,MBA   ,Business General,25,1
+138765,11,F,2008,MED   ,General Education,50,1
+138846,10,F,2002,BS    ,Sociology,35,1
+138855,8,M,1995,MED   ,General Education,250,1
+138886,8,M,1992,MBA   ,Business General,500,1
+138924,11,F,1979,BS    ,Biology,100,1
+139057,13,F,1984,BBA   ,Accounting,100,1
+139155,7,F,1999,MSN   ,Nursing,50,1
+139165,12,F,1985,MBA   ,Management,400,1
+139206,8,M,1997,BS    ,Geology,500,1
+139289,8,F,2007,MED   ,General Education,50,1
+139321,8,F,1986,MSN   ,Nursing,75,1
+139340,10,F,1993,BS    ,Public Administration,500,1
+139359,3,F,1993,BS    ,Psychology,25,1
+139361,11,M,1995,BFA   ,Art,50,1
+139363,21,M,1998,MED   ,General Education,1765,1
+139436,4,F,2004,MED   ,School Counseling,200,1
+139493,5,M,1988,MED   ,General Education,475,1
+139524,13,F,2002,MED   ,General Education,41,1
+139541,16,F,1979,BS    ,Biology,200,1
+139647,6,M,2004,BBA   ,Finance,50,1
+139681,10,M,1998,BS    ,GRO Social Studies,50,1
+139802,8,F,1989,BSN   ,Nursing - RN,400,1
+139918,18,M,1978,BS    ,Physical Education,17050,1
+140054,6,M,1974,BA    ,Spanish,300,1
+140100,21,F,2009,MPA   ,Public Administration,35,1
+140154,8,F,1980,BA    ,Finance,200,1
+140234,18,M,2013,BS    ,Biology,450,1
+140287,4,F,2006,BS    ,Cell and Molecular Biology,50,1
+140454,33,F,1968,BA    ,History,800,1
+147666,7,F,1968,MSW   ,,50,1
+152898,19,M,1977,BBA   ,Business General,1000,1
+153503,10,F,1975,BS    ,Theatre,1000,1
+157792,8,M,1972,BBA   ,Business General,400,1
+189536,7,F,1978,BS    ,Group SS Soc,200,1
+190065,12,M,1994,BBA   ,Marketing,750,1
+190192,8,F,2001,MSW   ,Social Work,600,1
+190217,5,M,2005,BBA   ,Marketing,5000,1
+190304,2,F,1986,BS    ,GRO Soc Science,25,1
+190307,26,M,1987,MSW   ,Social Work,1000,1
+190313,2,F,1989,BS    ,Psychology,10000,1
+525826,11,F,2006,BA    ,English Language and Literature,150,1
+525852,9,F,2006,BA    ,English Language and Literature,100,1
+526687,10,M,2006,BS    ,Biomedical Sciences,150,1
+526777,3,M,2003,MST   ,Taxation,20,1
+526824,9,M,2003,BS    ,Computer Science,50,1
+526858,11,M,2003,BA    ,Advertising & Public Relations,20,1
+526869,4,F,2003,MS    ,Computer Information Systems,25,1
+526886,12,F,2003,MNMB  ,Nursing/Business,100,1
+526911,10,F,2003,MS    ,Computer Information Systems,500,1
+527093,3,F,2010,MED   ,Literacy Studies,50,1
+527105,11,F,2003,BBA   ,Marketing,300,1
+527141,4,F,2003,MSA   ,Accounting,20,1
+527155,5,F,2003,BA    ,English Language and Literature,10,1
+527174,11,F,2003,BBA   ,Management,25,1
+527576,1,F,2003,MHS   ,Health Science,50,1
+527577,7,M,2003,BBA   ,Management,500,1
+527663,2,F,2003,MED   ,General Education,100,1
+527691,8,F,2003,MED   ,General Education,5,1
+527696,10,F,2003,BA    ,English Language and Literature,100,1
+527868,4,M,2004,BS    ,Art,35,1
+527880,9,M,2004,MED   ,General Education,60,1
+527944,7,F,2004,BBA   ,Finance,30,1
+528066,7,M,2004,MED   ,General Education,150,1
+528082,1,F,2004,MED   ,Reading,15,1
+528102,3,F,2004,BA    ,History,25,1
+528201,14,M,2004,MPA   ,Public Administration,300,1
+528222,9,F,2004,PMCE  ,,100,1
+528235,1,F,2004,BBA   ,Accounting,25,1
+528293,18,F,2004,BS    ,Biology,500,1
+528373,7,M,2004,BBA   ,Marketing,200,1
+528394,9,F,2004,BA    ,Health Communication,60,1
+528444,12,F,2004,BS    ,Physical Education,100,1
+528549,6,F,2004,BSN   ,Nursing,20,1
+528578,8,F,2004,BS    ,Hospitality Tourism Mgt,50,1
+528584,13,F,2004,BA    ,English Language and Literature,60,1
+528590,50,F,2004,MS    ,Communications,15,1
+528754,10,M,2004,BBA   ,Finance,50,1
+528781,11,F,2004,DPT   ,Physical Therapy,300,1
+528952,7,M,2004,MBA   ,Business General,50,1
+529098,12,F,2004,MSA   ,Accounting,200,1
+529109,6,F,2004,BS    ,Biology,50,1
+529141,48,M,2004,MBA   ,Business General,100,1
+529239,13,F,2004,MSA   ,Accounting,31.15,1
+529995,7,F,2006,MPA   ,Public Administration,100,1
+530254,34,F,2012,BS    ,Liberal Studies,500,1
+530555,7,M,2005,BBA   ,Business General,50,1
+531453,31,M,2004,MSA   ,Accounting,300,1
+531484,6,F,2004,BSN   ,Nursing,25,1
+531490,6,F,2004,MST   ,Taxation,200,1
+531518,9,F,2004,DPT   ,Physical Therapy,400,1
+531521,8,F,2004,BS    ,Information Systems,300,1
+531540,2,F,2004,BA    ,Criminal Justice,500,1
+531594,8,M,2004,BA    ,Communications,100,1
+531766,2,F,2004,MSW   ,Social Work,50,1
+531778,3,F,2004,BSN   ,Nursing,300,1
+531830,4,M,2004,BSE   ,Engineering,35,1
+531837,10,F,2004,BS    ,Physical Education,25,1
+531855,28,M,2004,MSA   ,Accounting,300,1
+531906,4,F,2004,MSW   ,Social Work,150,1
+531946,14,F,2004,DNP   ,Nursing,337.08,1
+531948,10,M,2004,BS    ,Political Science,100,1
+532191,8,M,2002,BS    ,History,250,1
+532722,1,M,2004,MPA   ,Public Administration,500,1
+532802,8,F,2005,BSN   ,Nursing,100,1
+534189,6,F,2007,MED   ,General Education,20,1
+535135,2,F,2008,MPAS  ,Physician Assistant Studies,50,1
+535170,2,F,2006,BA    ,Spanish,50,1
+535172,8,M,2007,BS    ,History,11.12,1
+535176,15,F,2006,MA    ,English Language and Literature,1,1
+535280,6,M,2006,BBA   ,Business Economics,200,1
+535287,9,F,2006,BS    ,Biomedical Sciences,100,1
+535319,6,F,2005,DPT   ,Physical Therapy,200,1
+535322,3,F,2007,BA    ,Mathematics,20,1
+535481,9,F,2007,BS    ,Journalism,20,1
+535483,8,F,2006,BA    ,History,100,1
+535489,2,F,2008,BA    ,GRO Social Studies,50,1
+535536,7,F,2007,BA    ,Chemistry,50,1
+535609,3,F,2008,BA    ,Mathematics,20,1
+535635,6,F,2009,BA    ,Journalism,50,1
+535698,5,M,2007,BS    ,Biomedical Sciences,500,1
+535741,4,M,2008,MPAS  ,Physician Assistant Studies,25,1
+535745,7,M,2008,BS    ,Biology,35,1
+535755,9,M,2006,BBA   ,Finance,50,1
+535793,1,F,2004,MPA   ,Public Administration,25,1
+535890,2,F,2005,BSN   ,Nursing,25,1
+535906,29,M,2007,MPA   ,Public Administration,450,1
+535914,16,M,2008,BS    ,Computer Science,100,1
+535937,58,F,2005,BS    ,Hospitality Tourism Mgt,190,1
+536010,10,F,2009,BS    ,Biomedical Sciences,100,1
+536037,9,M,2006,BA    ,Political Science,5,1
+536159,13,F,2006,MSA   ,Accounting,50,1
+536172,2,M,2006,BA    ,Theatre,100,1
+536217,8,M,2008,BA    ,Political Science,113.82,1
+536391,1,M,2009,BS    ,Geology,25,1
+536404,2,M,2007,BBA   ,Business General,125,1
+536569,4,F,2007,BA    ,English Language and Lit,15,1
+536574,11,M,2007,MED   ,General Education,220,1
+536626,6,M,2006,BA    ,Liberal Studies,10,1
+536631,19,F,2006,MPA   ,Public Administration,25,1
+536695,2,M,2009,BBA   ,Finance,200,1
+536712,5,M,2009,BS    ,Mathematics,20,1
+536746,21,M,2005,BS    ,Physical Education,150,1
+536764,17,F,2006,BS    ,Athletic Training,50,1
+536797,23,F,2007,MPA   ,Public Administration,150,1
+536892,4,F,2006,BA    ,English Language and Literature,75,1
+536951,8,M,2005,BS    ,Criminal Justice,25,1
+536961,8,M,2006,BBA   ,Finance,35,1
+536967,29,F,2010,BA    ,Writing,45,1
+536984,3,F,2009,BA    ,Hospitality Tourism Mgt,25,1
+537025,3,F,2005,MSN   ,Nursing,100,1
+537058,8,M,2008,BS    ,Film and Video,40,1
+537122,12,F,2006,MED   ,General Education,25,1
+537143,4,M,2006,BS    ,Mathematics,35,1
+537167,3,M,2007,BBA   ,Marketing,10,1
+537168,24,F,2005,MED   ,General Education,95.04,1
+537235,12,F,2008,BS    ,Chemistry,100,1
+537272,9,M,2006,MED   ,General Education,25,1
+537285,5,M,2008,BS    ,Physical Education,50,1
+537309,11,F,2005,BA    ,Journalism,50,1
+537357,10,F,2005,BA    ,Greek,500,1
+537375,31,F,2008,BA    ,Legal Studies,60,1
+537404,4,F,2006,BA    ,Communications,20,1
+537406,4,F,2006,BA    ,Sociology,25,1
+537425,7,F,2008,BS    ,Biomedical Sciences,300,1
+537497,3,F,2011,BFA   ,Art,15,1
+537523,2,F,2006,BA    ,Art,25,1
+537564,10,F,2007,MS    ,Occupational Therapy,50,1
+537586,2,F,2009,BBA   ,Business Economics,5,1
+537625,6,M,2009,BS    ,Mathematics,75,1
+537636,8,F,2009,BA    ,Classical Tradition,100,1
+537644,33,F,2008,MHA   ,Health Administrator,50,1
+537676,6,M,2005,BBA   ,Management,250,1
+537710,2,F,2009,BBA   ,Finance,20,1
+537802,73,F,2008,MED   ,Higher Education,205,1
+537815,7,M,2005,BBA   ,Management,100,1
+537863,9,M,2011,BA    ,History,20,1
+537868,5,F,2005,MED   ,General Education,25,1
+537872,6,M,2007,MED   ,Educational Leadership,225,1
+538006,7,F,2007,BA    ,Classical Tradition,50,1
+538033,4,M,2010,BS    ,Journalism,20,1
+538062,20,F,2007,BS    ,Photography,25,1
+538175,55,F,2005,BS    ,Biomedical Sciences,700,1
+538214,2,M,2008,BS    ,Biomedical Sciences,50,1
+538251,3,M,2007,MS    ,Cell and Molecular Biology,5,1
+538253,6,F,2007,MSW   ,Social Work,1,1
+538320,5,M,2009,MSW   ,Social Work,20,1
+538350,14,F,2006,MSW   ,Social Work,150,1
+538353,8,M,2006,MS    ,Biostatistics,25,1
+538395,5,M,2005,BA    ,Film and Video,50,1
+538443,2,F,2006,MED   ,Special Education,50,1
+538453,6,M,2007,BS    ,Psychology,50,1
+538467,8,M,2008,BS    ,Biomedical Sciences,100,1
+538484,38,F,2007,BA    ,Communications,500,1
+538519,5,F,2008,BSN   ,Nursing,50,1
+538539,1,M,2005,MPA   ,Public Administration,50,1
+538540,5,F,2005,MS    ,Computer Information Systems,5,1
+538550,11,F,2005,BBA   ,Finance,100,1
+538561,12,M,2009,BS    ,Athletic Training,75,1
+538570,3,F,2008,BS    ,Advertising & Public Relations,75,1
+538689,10,F,2007,BS    ,Health Professions,50,1
+538717,13,F,2006,BBA   ,Finance,50,1
+538784,2,F,2008,BS    ,Physical Education,25,1
+538797,11,F,2010,BA    ,Hospitality Tourism Mgt,25,1
+538818,6,M,2008,BS    ,Physical Education,75,1
+538880,7,F,2006,MED   ,Special Education,100,1
+539050,14,F,2005,MS    ,Criminal Justice,20,1
+539516,3,F,2004,MSA   ,Accounting,25,1
+539606,8,F,2004,MED   ,General Education,30,1
+539623,6,F,2004,BS    ,Psychology,25,1
+539629,51,F,2004,MED   ,General Education,250,1
+539695,7,F,2004,MPA   ,Public Administration,50,1
+539747,7,F,2004,BA    ,English Language and Literature,100,1
+539754,42,F,2004,MBA   ,Business General,2000,1
+539768,5,M,2004,BS    ,Mathematics,50,1
+540159,7,F,2004,BBA   ,International Business,300,1
+540194,4,M,2004,BBA   ,Finance,87.5,1
+540207,8,F,2004,BS    ,Advertising & Public Relations,50,1
+540233,31,M,2004,BS    ,Communications,115,1
+540370,29,M,2004,BBA   ,Marketing,2000,1
+541070,5,F,2010,BS    ,Natural Resource Management,100,1
+541844,8,M,2006,BBA   ,Accounting,200,1
+544325,10,F,2005,MS    ,Occupational Therapy,200,1
+544332,5,F,2005,BA    ,Psychology,25,1
+546406,9,M,2005,BBA   ,Finance,100,1
+546440,5,M,2005,MBA   ,Business General,25,1
+546445,1,M,2005,BBA   ,Marketing,150,1
+546569,9,F,2005,BA    ,Legal Studies,20,1
+546632,7,F,2005,MED   ,General Education,25,1
+546761,1,F,2005,BBA   ,Finance,10,1
+546777,3,F,2005,BS    ,GRO Social Studies,50,1
+546888,4,M,2005,BS    ,Criminal Justice,10,1
+546895,7,M,2006,MED   ,General Education,25,1
+546930,4,M,2005,BBA   ,Business General,35,1
+547043,57,M,2005,BS    ,Hospitality Tourism Mgt,700,1
+547088,7,F,2005,BS    ,Integrated Science,250,1
+547244,27,M,2005,BS    ,Information Systems,3000,1
+547369,9,F,2005,BA    ,Advertising & Public Relations,100,1
+547371,2,M,2005,BS    ,Legal Studies,500,1
+547382,30,M,2005,BS    ,GRO Social Studies,30,1
+547501,8,M,2005,BS    ,Psychology,11,1
+547531,8,M,2005,BS    ,Computer Science,150,1
+547557,5,F,2005,BA    ,GRO Social Studies,50,1
+548821,22,M,2006,BS    ,Journalism,65,1
+549029,18,M,2005,BS    ,Advertising & Public Relations,250,1
+549894,10,M,2010,MPAS  ,Physician Assistant Studies,250,1
+551171,5,F,2008,MED   ,General Education,1175,1
+551176,7,M,2005,BBA   ,International Business,300,1
+551197,8,M,2005,MHA   ,Health Administrator,250,1
+551208,1,F,2014,MED   ,School Counseling,2,1
+551303,7,M,2005,BS    ,Physical Education,50,1
+551469,1,F,2005,BBA   ,Finance,20,1
+551544,1,M,2005,MSA   ,Accounting,25,1
+551806,8,M,2005,BBA   ,Accounting,50,1
+551831,6,M,2005,BS    ,Psychology,25,1
+551846,6,F,2008,MED   ,Special Education,150,1
+551875,1,F,2007,MED   ,General Education,25,1
+551897,13,F,2005,MS    ,Biology,505,1
+551989,5,F,2008,BBA   ,Finance,35,1
+552500,25,F,2006,BS    ,Advertising & Public Relations,50,1
+553551,2,F,2009,MSA   ,Accounting,75,1
+553595,1,F,2006,MSA   ,Accounting,25,1
+553597,22,M,2006,BBA   ,Finance,150,1
+553601,3,F,2009,BA    ,Writing,25,1
+553656,13,M,2009,BS    ,Physical Education,50,1
+553761,8,M,2009,BS    ,Biomedical Sciences,45,1
+553925,8,F,2009,BS    ,Health Professions,325,1
+553969,4,F,2009,BS    ,Biomedical Sciences,100,1
+559295,5,M,2012,BS    ,Public Administration,50,1
+561773,9,M,2009,BS    ,Public Administration,10,1
+561859,3,M,2005,MBA   ,Business General,200,1
+561909,9,M,2005,BBA   ,Marketing,603,1
+561944,1,M,2005,MED   ,Educational Leadership,10,1
+561993,15,M,2005,MSA   ,Accounting,50,1
+562045,9,M,2005,MBA   ,Business General,50,1
+562139,5,F,2005,BS    ,Broadcasting,225,1
+562184,40,M,2005,BBA   ,Accounting,25,1
+562209,22,F,2005,BA    ,Advertising & Public Relations,100,1
+562232,30,M,2005,BBA   ,Marketing,500,1
+562247,2,F,2005,BS    ,Biomedical Sciences,150,1
+562495,20,F,2005,MPAS  ,Physician Assistant Studies,100,1
+562508,6,F,2005,BBA   ,Finance,603,1
+563985,17,F,2007,MBA   ,Business General,75,1
+564140,4,M,2006,BS    ,Journalism,100,1
+564149,13,F,2009,BS    ,Biomedical Sciences,25,1
+564194,10,F,2006,BBA   ,Marketing,50,1
+565479,101,F,2011,MPA   ,Public Administration,10,1
+568138,5,F,2006,MPA   ,Public Administration,200,1
+568192,1,F,2006,BA    ,Advertising & Public Relations,25,1
+568213,3,M,2005,BS    ,Psychology,50,1
+568263,2,F,2006,MED   ,General Education,50,1
+568385,4,F,2006,MSA   ,Accounting,150,1
+568402,6,F,2006,BS    ,Integrated Science,100,1
+568593,6,M,2006,MBA   ,Business General,2200,1
+568646,6,M,2006,MST   ,Taxation,200,1
+568750,3,F,2006,BSN   ,Nursing,20,1
+568764,9,F,2006,BS    ,Psychology,31.95,1
+568798,8,M,2006,BBA   ,Marketing,50,1
+568876,6,M,2005,BS    ,Health Science,250,1
+568960,4,F,2006,MPA   ,Public Administration,30,1
+568970,2,F,2006,BS    ,Advertising & Public Relations,100,1
+569169,8,M,2006,BBA   ,Finance,10,1
+569273,4,F,2006,MS    ,Biostatistics,205,1
+569389,6,F,2006,BA    ,Advertising & Public Relations,50,1
+569431,2,M,2006,BS    ,Psychology,25,1
+569986,8,F,2010,BS    ,Chemistry,50,1
+570022,10,M,2010,BS    ,Political Science,35,1
+570271,16,F,2006,BS    ,Art,10,1
+570977,12,F,2014,MPA   ,Public Administration,35,1
+572032,4,F,2006,BS    ,Therapeutic Recreation,150,1
+572044,20,F,2006,BA    ,Broadcasting,25,1
+572093,6,M,2006,BS    ,Hospitality Tourism Mgt,70,1
+572239,38,F,2006,MPA   ,Public Administration,35,1
+572248,5,M,2006,MSN   ,Nursing,200,1
+572599,4,M,2006,BBA   ,Marketing,20,1
+572794,5,M,2006,BS    ,Criminal Justice,50,1
+572835,3,M,2006,BS    ,Sociology,25,1
+572936,7,M,2006,MBA   ,Business General,50,1
+573000,19,M,2006,DNP   ,Nursing,1,1
+573079,7,F,2006,BS    ,Physical Education,50,1
+573082,9,F,2006,BS    ,Psychology,25,1
+573276,4,F,2006,MBA   ,Business General,339.2,1
+573770,8,M,2006,BBA   ,Marketing,80,1
+573777,15,M,2006,MSA   ,Accounting,455,1
+580965,4,F,2006,MPAS  ,Physician Assistant Studies,20,1
+581113,15,M,2006,BS    ,Political Science,50,1
+581157,6,M,2006,MST   ,Taxation,5000,1
+581225,7,F,2006,BS    ,Natural Resource Management,50,1
+581300,3,F,2006,BBA   ,Management,10,1
+581324,1,F,2006,BA    ,GRO Social Studies,50,1
+581369,7,F,2006,BS    ,Hospitality Tourism Mgt,25,1
+581416,3,M,2006,MED   ,School Counseling,20,1
+581418,2,M,2006,BBA   ,Management,315,1
+581420,4,F,2006,BS    ,Sociology,100,1
+581471,4,M,2006,MS    ,Computer Information Systems,50,1
+581598,1,F,2006,BS    ,GRO Social Studies,50,1
+581744,4,M,2006,BS    ,Physical Education,21,1
+581746,9,M,2006,BBA   ,Marketing,15,1
+581751,7,M,2006,MBA   ,Business General,100,1
+581818,13,M,2008,MPA   ,Public Administration,50,1
+581874,37,M,2008,BS    ,Advertising & Public Relations,146.7,1
+581878,2,F,2007,BSN   ,Nursing,50,1
+581941,3,M,2010,BBA   ,Accounting,25,1
+581949,23,M,2010,BS    ,Advertising & Public Relations,25,1
+581965,33,F,2010,BBA   ,Management,40,1
+582000,10,M,2010,BS    ,Biopsychology,50,1
+582002,35,F,2010,BBA   ,Management,100,1
+582056,5,F,2010,BFA   ,Art,100,1
+582072,4,F,2012,BS    ,Advertising & Public Relations,70,1
+582104,8,F,2010,BS    ,Advertising & Public Relations,50,1
+582145,14,F,2010,MED   ,Higher Education,100,1
+582206,3,M,2010,BBA   ,Management,5,1
+582293,22,F,2010,BS    ,Chemistry,55,1
+582382,4,F,2010,MSA   ,Accounting,15,1
+582394,11,F,2010,MSN   ,Nursing,1,1
+582964,6,M,2010,BS    ,Occup Safety/Health Management,10,1
+583001,23,M,2010,MED   ,Higher Education,120,1
+583112,8,M,2010,MS    ,Biostatistics,325,1
+584772,13,F,2009,BS    ,Anthropology,100,1
+584811,11,F,2010,BS    ,Biomedical Sciences,20,1
+584893,89,F,2008,BA    ,Psychology,100,1
+584898,3,F,2007,BS    ,Communications,50,1
+585073,6,M,2009,BS    ,Biomedical Sciences,200,1
+585092,11,M,2009,BS    ,Political Science,50,1
+585179,23,F,2010,MPA   ,Public Administration,1000,1
+585235,8,M,2009,BS    ,Athletic Training,50,1
+585904,6,M,2007,BBA   ,Management,100,1
+586010,11,M,2007,MBA   ,Business General,50,1
+586013,36,M,2007,BS    ,Physical Education,25,1
+586174,7,M,2007,BS    ,Geography,25,1
+586207,2,F,2007,MBA   ,Business General,25,1
+586307,5,M,2007,BS    ,Mathematics,50,1
+586384,1,F,2007,BS    ,Health Science,50,1
+586425,6,M,2007,BS    ,History,50,1
+586513,3,F,2007,BA    ,English Language and Literature,50,1
+586619,8,F,2007,BS    ,Integrated Science,25,1
+586706,4,F,2007,BBA   ,Business General,10,1
+586767,4,M,2007,BBA   ,Management,150,1
+587153,17,F,2007,BS    ,Hospitality Tourism Mgt,40,1
+587212,3,M,2007,BS    ,Psychology,5,1
+587269,8,F,2007,BA    ,English Language and Literature,50,1
+587386,7,F,2007,BSW   ,Social Work,25,1
+587623,17,F,2010,MPA   ,Public Administration,35,1
+587646,4,F,2010,BSN   ,Nursing,10,1
+587660,10,M,2009,MPA   ,Public Administration,500,1
+587674,8,M,2012,BBA   ,Finance,85,1
+587687,16,F,2011,BSN   ,Nursing,120,1
+587897,4,M,2009,MPA   ,Public Administration,100,1
+589040,22,F,2010,BS    ,Public Administration,300,1
+592014,1,F,2007,BS    ,Biology,20,1
+592253,11,M,2007,BS    ,Criminal Justice,40,1
+592744,8,F,2007,MST   ,Taxation,40,1
+592780,13,M,2007,MPA   ,Public Administration,300,1
+594281,6,M,2013,BS    ,Exercise Science,10,1
+594303,5,M,2014,BSE   ,Engineering,5,1
+594337,6,F,2011,BBA   ,Accounting,50,1
+594342,7,M,2012,BBA   ,Finance,100,1
+594384,5,M,2009,BA    ,Film and Video,50,1
+594385,30,M,2009,MPA   ,Public Administration,200,1
+594447,7,M,2010,MED   ,Higher Education,50,1
+594513,6,F,2010,BS    ,Exercise Science,20,1
+594632,8,F,2010,BS    ,Biomedical Sciences,20,1
+594708,7,M,2010,BS    ,Biomedical Sciences,20,1
+594720,4,M,2010,MSA   ,Accounting,100,1
+594803,5,M,2012,BSE   ,Computer Engineering,20,1
+594851,12,F,2011,MS    ,Biostatistics,50,1
+594856,12,M,2012,BA    ,Chinese Studies,35,1
+594861,22,M,2009,MBA   ,Business General,50,1
+594891,5,F,2012,BS    ,Hospitality Tourism Mgt,15,1
+594911,8,F,2012,MS    ,Cell and Molecular Biology,10,1
+594915,4,F,2011,BS    ,Psychology,10,1
+594921,8,M,2011,BS    ,Chemistry,150,1
+595989,2,M,2013,BBA   ,Management,10,1
+596645,7,F,2008,BS    ,Biomedical Sciences,100,1
+596705,10,F,2011,MSW   ,Social Work,25,1
+596715,13,M,2009,BS    ,Chemistry,20,1
+596765,8,F,2011,BSW   ,Social Work,50,1
+596776,7,F,2009,BS    ,Athletic Training,20,1
+596852,12,M,2013,BS    ,Biomedical Sciences,25,1
+597007,1,F,2007,BBA   ,Accounting,10,1
+597205,48,M,2007,BS    ,Computer Science,260,1
+597342,5,F,2007,BS    ,Mathematics,50,1
+597363,4,M,2007,MS    ,Computer Information Systems,50,1
+597385,1,M,2007,BBA   ,Marketing,10,1
+597606,14,F,2007,BBA   ,Marketing,30,1
+597658,1,F,2007,BS    ,Criminal Justice,25,1
+597698,7,M,2007,MED   ,General Education,50,1
+597841,8,F,2009,MA    ,English Language and Literature,100,1
+597846,4,M,2007,BS    ,Hospitality Tourism Mgt,100,1
+597859,1,F,2007,BS    ,Communications,50,1
+597893,5,F,2007,BS    ,Health Science,10,1
+598097,7,F,2010,BS    ,Biomedical Sciences,25,1
+598274,37,F,2012,BA    ,Psychology,150,1
+598346,10,F,2009,MSA   ,Accounting,5,1
+598347,13,M,2009,MPA   ,Public Administration,150,1
+598357,106,M,2012,BBA   ,Finance,25,1
+598782,20,M,2010,BS    ,Biomedical Sciences,300,1
+598895,108,F,2008,MPA   ,Public Administration,296.76,1
+599805,67,M,2008,BBA   ,Marketing,350,1
+599829,1,F,2008,MSW   ,Social Work,50,1
+599887,4,F,2008,BSN   ,Nursing,25,1
+599984,10,F,2008,MHS   ,Biomedical Sciences,100,1
+600051,4,M,2008,BA    ,Writing,150,1
+600141,3,F,2008,BSN   ,Nursing - RN,10,1
+600327,2,F,2008,BA    ,Hospitality Tourism Mgt,20,1
+600402,5,F,2008,BS    ,Integrated Science,25,1
+600616,10,F,2008,MS    ,Computer Information Systems,10,1
+600636,6,F,2008,MED   ,Educational Technology,25,1
+600835,5,M,2008,BS    ,Health Professions,300,1
+600852,3,F,2008,BA    ,Advertising & Public Relations,100,1
+600978,6,M,2008,BS    ,Information Systems,150,1
+602723,5,M,2008,BS    ,Natural Resource Management,50,1
+602993,9,F,2008,MED   ,Higher Education,85,1
+603188,1,M,2008,BS    ,Biomedical Sciences,25,1
+603337,1,F,2008,BSE   ,Engineering,40,1
+608229,3,F,1976,BS    ,Group SS Soc,631,1
+608405,2,F,2007,MSN   ,Nursing,250,1
+608693,7,M,2008,MSE   ,Engineering,50,1
+608915,5,M,2008,BBA   ,Finance,100,1
+608932,19,M,2009,MED   ,General Education,12,1
+610831,27,F,2012,BS    ,Health Communication,50,1
+610948,9,F,2008,MPA   ,Public Administration,500,1
+610982,5,F,2008,MSA   ,Accounting,30,1
+611020,1,F,2008,MED   ,General Education,50,1
+611089,5,M,2008,BBA   ,Finance,75,1
+611189,3,F,2008,BA    ,Psychology,5,1
+611272,15,F,2008,BBA   ,Finance,100,1
+611279,19,F,2008,BBA   ,Marketing,100,1
+611284,4,M,2008,BSN   ,Nursing,25,1
+611315,3,F,2008,BS    ,Therapeutic Recreation,150,1
+611633,1,F,2013,BS    ,Mathematics,10,1
+611650,5,M,2012,BS    ,Occup Safety/Health Management,50,1
+611661,21,F,2012,BA    ,Political Science,300,1
+611798,3,F,2014,BS    ,Comp Sci & Arts for Teaching,0.32,1
+611816,3,F,2013,BA    ,Spanish,10,1
+611824,8,M,2009,BS    ,Athletic Training,300,1
+611848,6,M,2010,MPA   ,Public Administration,500,1
+611895,3,M,2011,BS    ,Computer Science,20,1
+611905,11,F,2011,BA    ,International Relations,25,1
+611928,18,M,2009,BS    ,Information Systems,3,1
+611950,5,F,2013,BBA   ,Management,5,1
+611973,1,F,2010,MSA   ,Accounting,50,1
+612099,5,M,2010,BS    ,Political Science,5,1
+612246,3,F,2013,BA    ,Spanish,25,1
+612557,27,F,2008,BS    ,Psychology,65,1
+612785,23,F,2011,BBA   ,International Business,75,1
+613256,4,M,2008,BSE   ,Engineering,20,1
+613548,6,M,2010,BS    ,Advertising & Public Relations,10,1
+613609,3,F,2009,BA    ,English Language and Literature,20,1
+613645,8,F,2010,BS    ,Athletic Training,25,1
+613656,8,F,2010,MED   ,General Education,75,1
+613785,13,F,2009,BS    ,Public Administration,50,1
+614056,33,M,2012,BS    ,History,550,1
+614996,6,F,2009,BBA   ,Finance,70,1
+615105,7,F,2009,BS    ,Health Professions,25,1
+615406,6,F,2009,BS    ,Advertising & Public Relations,25,1
+615604,52,M,2009,BBA   ,Business Economics,25,1
+615673,2,M,2009,BS    ,GRO Social Studies,25,1
+615765,6,F,2009,BA    ,French,200,1
+615834,3,M,2009,BBA   ,Business Economics,15,1
+615864,7,M,2009,BBA   ,Accounting,50,1
+615908,27,M,2009,BBA   ,Finance,30,1
+615987,15,F,2009,BSN   ,Nursing,146.7,1
+616018,4,F,2009,BBA   ,Management,50,1
+616093,1,M,2009,BS    ,Criminal Justice,30,1
+616281,7,F,2009,MED   ,General Education,160,1
+616305,5,M,2009,BS    ,Economics,75,1
+616340,4,M,2009,BS    ,Political Science,25,1
+616350,3,M,2009,BA    ,Criminal Justice,150,1
+616370,9,F,2009,MSW   ,Social Work,15,1
+616971,7,F,2009,BA    ,GRO Social Studies,55,1
+616989,8,M,2009,BS    ,History,50,1
+617763,12,F,2012,BS    ,Liberal Studies,25,1
+618160,13,M,2012,MBA   ,Business General,20,1
+618376,4,F,2013,BS    ,Public Administration,35,1
+618701,10,M,2009,BS    ,Hospitality Tourism Mgt,100,1
+618729,5,M,2009,BBA   ,International Business,100,1
+618753,3,F,2009,BSN   ,Nursing,35,1
+618824,7,F,2009,BS    ,Hospitality Tourism Mgt,50,1
+618841,7,M,2009,BS    ,Advertising & Public Relations,10,1
+618968,1,F,2009,BS    ,Hospitality Tourism Mgt,75,1
+618978,2,F,2009,BS    ,Criminal Justice,50,1
+619038,10,M,2009,BBA   ,Management,25,1
+619288,8,M,2009,DPT   ,Physical Therapy,50,1
+619291,3,M,2009,BBA   ,Accounting,35,1
+619400,7,F,2009,MED   ,Higher Education,95,1
+619402,5,F,2009,MBA   ,Business General,35,1
+619667,11,M,2012,EDS   ,Leadership,20,1
+619842,8,F,2012,BSW   ,Social Work,20,1
+620339,14,F,2013,BBA   ,Marketing,10,1
+620387,7,F,2010,DNP   ,Nursing,50,1
+624398,72,F,2011,BA    ,Advertising & Public Relations,30,1
+624443,5,M,2009,MSA   ,Accounting,25,1
+624459,2,F,2009,MSW   ,Social Work,0.62,1
+624828,4,F,2010,BA    ,Hospitality Tourism Mgt,20,1
+625653,14,M,2011,MPA   ,Public Administration,100,1
+625656,6,M,2011,BS    ,Exercise Science,50,1
+625702,4,F,2010,BS    ,Anthropology,10,1
+625726,3,M,2011,BS    ,Physical Education,50,1
+625787,7,F,2011,BS    ,Psychology,5,1
+625829,4,F,2014,BS    ,Psychology,10,1
+625888,10,F,2013,BA    ,Liberal Studies,10,1
+625923,7,M,2013,BBA   ,Business Economics,110,1
+625964,4,M,2014,BSE   ,Mechanical Engineering,5,1
+626010,6,F,2014,BA    ,Music,5,1
+626092,3,F,2013,BA    ,Journalism,25,1
+626123,3,F,2014,BA    ,Spanish,25,1
+626135,9,M,2010,BS    ,Public Administration,50,1
+626140,5,M,2014,BA    ,Spanish,27,1
+626229,9,F,2012,BS    ,Mathematics,100,1
+626335,14,M,2011,BBA   ,Finance,50,1
+626337,2,M,2010,MSA   ,Accounting,75,1
+626376,2,F,2010,BS    ,Geology,300,1
+626467,9,F,2012,MED   ,Literacy Studies,100,1
+626992,20,F,2009,BBA   ,International Business,100,1
+627030,12,F,2009,MPA   ,Public Administration,50,1
+627064,2,M,2009,BBA   ,Marketing,250,1
+627233,3,M,2009,BA    ,Criminal Justice,50,1
+627384,3,M,2009,BS    ,Computer Science,50,1
+627496,7,M,2009,BBA   ,Marketing,150,1
+627505,1,M,2009,BBA   ,Business General,300,1
+627534,7,M,2009,BS    ,Economics,100,1
+627633,8,F,2009,BA    ,Hospitality Tourism Mgt,25,1
+627645,3,F,2009,BA    ,Broadcasting,150,1
+627697,1,M,2009,MPA   ,Public Administration,100,1
+627729,2,F,2009,MSA   ,Accounting,100,1
+627810,50,M,2009,BBA   ,Marketing,25,1
+628314,3,M,2011,MBA   ,Business General,300,1
+629286,9,F,2010,BBA   ,Finance,50,1
+629389,4,M,2010,BBA   ,Management,100,1
+629445,11,M,2010,BA    ,Photography,200,1
+629447,5,M,2010,BA    ,French,15,1
+629599,14,F,2010,MSA   ,Accounting,25,1
+629606,8,F,2010,BA    ,Legal Studies,20,1
+629608,3,F,2010,BS    ,Liberal Studies,50,1
+629612,15,F,2010,BA    ,Advertising & Public Relations,170,1
+629649,7,M,2010,MSW   ,Social Work,70,1
+629661,13,F,2010,BBA   ,Management,50,1
+629666,2,F,2010,BBA   ,Finance,35,1
+629867,15,F,2010,MPA   ,Public Administration,50,1
+629868,5,F,2010,BS    ,Psychology,5,1
+629897,5,M,2012,BS    ,Health Professions,50,1
+629903,8,F,2010,BA    ,International Relations,25,1
+629958,5,M,2011,BS    ,Liberal Studies,40,1
+630026,15,M,2012,MS    ,Communications,15.95,1
+630154,9,F,2012,MED   ,Instruction & Curriculum,150,1
+630779,4,F,2010,MED   ,Instruction & Curriculum,10,1
+630782,5,F,2010,MED   ,Higher Education,10,1
+630841,2,F,2010,BS    ,Biomedical Sciences,10,1
+630920,6,F,2010,BS    ,Exercise Science,10,1
+630973,2,M,2010,BS    ,Criminal Justice,100,1
+631006,8,F,2010,BS    ,Exercise Science,600,1
+631128,7,M,2010,MED   ,Higher Education,10,1
+631133,1,M,2010,MSA   ,Accounting,50,1
+631174,3,F,2010,MSA   ,Accounting,50,1
+631185,6,F,2010,BS    ,Public Administration,25,1
+631268,3,F,2010,MSW   ,Social Work,20,1
+631321,10,M,2010,BBA   ,Management,125,1
+631340,94,F,2010,BS    ,Hospitality Tourism Mgt,10,1
+631429,10,F,2010,MSW   ,Social Work,25,1
+631553,1,M,2010,BS    ,Criminal Justice,25,1
+631554,9,F,2010,MPA   ,Public Administration,10,1
+631590,15,F,2010,BS    ,Biology,110,1
+631597,5,F,2010,BSN   ,Nursing,50,1
+631605,4,M,2010,MST   ,Taxation,75,1
+631635,5,M,2010,BS    ,Public Administration,50,1
+631684,7,M,2010,BS    ,Biomedical Sciences,50,1
+631762,8,M,2010,BBA   ,Marketing,50,1
+631777,3,M,2010,BBA   ,Accounting,50,1
+631782,3,F,2010,BS    ,Hospitality Tourism Mgt,20,1
+631936,5,M,2010,BBA   ,Management,1000,1
+632099,4,M,2010,MBA   ,Business General,400,1
+632153,5,F,2010,MPA   ,Public Administration,500,1
+632176,9,M,2010,MPA   ,Public Administration,100,1
+632283,5,F,2007,BS    ,Physical Education,35,1
+634099,26,F,2010,BBA   ,Marketing,25,1
+636834,2,M,2011,BS    ,Psychology,250,1
+636844,5,M,2011,MSA   ,Accounting,100,1
+636866,13,F,2011,BBA   ,International Business,150,1
+636870,9,M,2012,BA    ,Anthropology,15,1
+636889,6,F,2011,MSW   ,Social Work,15,1
+636890,5,M,2011,MED   ,Higher Education,25,1
+636909,10,F,2011,BBA   ,International Business,5,1
+636966,3,M,2014,BBA   ,Finance,10,1
+636981,5,M,2014,BBA   ,Management,3,1
+636990,4,M,2014,BS    ,Computer Science,10,1
+637026,7,M,2011,BBA   ,Management,50,1
+637066,4,F,2014,BA    ,French,3,1
+637067,5,F,2014,BS    ,Hospitality Tourism Mgt,1,1
+637078,3,F,2014,BS    ,Biomedical Sciences,4,1
+637083,6,F,2014,BA    ,International Relations,360,1
+637093,3,M,2014,BBA   ,Marketing,2,1
+637248,2,F,2014,BS    ,Biology,2,1
+637290,1,M,2014,BS    ,Film and Video,5,1
+637444,3,M,2012,BBA   ,Marketing,50,1
+637457,6,M,2012,BBA   ,Finance,150,1
+637471,8,F,2014,MSA   ,Accounting,2,1
+637500,5,F,2013,MPA   ,Public Administration,50,1
+637836,1,M,2010,BSE   ,Engineering,20,1
+638035,4,M,2010,BA    ,Political Science,100,1
+638152,3,M,2010,MPA   ,Public Administration,150,1
+638797,2,F,2010,BA    ,Philosophy,40,1
+638800,3,F,2010,MPA   ,Public Administration,20,1
+638847,3,M,2010,BS    ,Computer Science,200,1
+639177,14,F,2013,BS    ,Political Science,10,1
+639181,7,F,2013,BA    ,Liberal Studies,10,1
+639186,3,M,2014,BS    ,GRO Social Studies,10,1
+640501,4,M,2011,BBA   ,Management,160,1
+640550,2,M,2010,BSN   ,Nursing,10,1
+640614,6,M,2010,BBA   ,Marketing,75,1
+640617,13,M,2010,BS    ,GRO Social Studies,10,1
+641752,7,F,2012,MED   ,Higher Education,100,1
+641920,19,M,2013,BBA   ,Marketing,357,1
+642104,1,M,2010,BS    ,Public Administration,40,1
+642269,7,M,2010,DPT   ,Physical Therapy,50,1
+642310,6,M,2010,BS    ,Physical Education,300,1
+642407,2,F,2010,BS    ,Integrated Science,25,1
+642516,2,M,2010,BSN   ,Nursing,5,1
+642567,4,M,2010,BS    ,Advertising & Public Relations,50,1
+642603,4,F,2010,BA    ,Journalism,20,1
+642635,8,F,2010,MS    ,Cell and Molecular Biology,150,1
+642650,2,M,2010,BBA   ,Finance,20,1
+642743,2,M,2010,MSW   ,Social Work,1,1
+642826,6,M,2010,BBA   ,Marketing,100,1
+642872,6,M,2013,MPA   ,Public Administration,150,1
+643008,2,F,2013,BS    ,Psychology,10,1
+643037,4,M,2011,BBA   ,Management,25,1
+643171,3,F,2011,BS    ,Integrated Science,50,1
+643277,5,F,2011,BS    ,Art and Design,50,1
+643339,10,F,2011,BFA   ,Art,10,1
+643430,7,M,2011,BS    ,Mathematics,20,1
+643501,1,F,2011,BBA   ,Management,50,1
+643592,5,F,2011,BS    ,Health Professions,150,1
+643772,5,M,2011,BS    ,Biomedical Sciences,100,1
+643799,2,F,2011,BS    ,Clinical Laboratory Sciences,5,1
+643838,4,M,2012,BBA   ,Marketing,100,1
+643983,2,M,2011,MED   ,Special Education,10,1
+644039,2,F,2010,BS    ,Health Communication,35,1
+644045,3,F,2014,BS    ,Hospitality Tourism Mgt,5,1
+644275,7,F,2011,BS    ,Psychology,10,1
+644452,2,F,2011,BS    ,Integrated Science,50,1
+644622,3,M,2012,MED   ,Higher Education,25,1
+644644,8,M,2012,MED   ,Higher Education,50,1
+644720,22,F,2012,BA    ,English Language and Lit,30,1
+644764,6,F,2012,MED   ,Higher Education,70,1
+644807,10,M,2011,BA    ,International Relations,100,1
+644987,2,F,2011,BA    ,Writing,250,1
+645028,5,M,2011,BBA   ,Marketing,35,1
+645045,5,M,2011,BBA   ,Business General,5,1
+645141,4,F,2011,BBA   ,Finance,75,1
+645190,4,F,2011,BA    ,English Language and Literature,25,1
+645235,5,M,2011,BS    ,Criminal Justice,50,1
+645291,1,F,2011,MSW   ,Social Work,1,1
+645358,4,M,2011,BS    ,Biomedical Sciences,25,1
+645386,6,M,2013,BS    ,GRO Social Studies,50,1
+646585,3,M,2012,MSA   ,Accounting,100,1
+646678,4,F,2012,BS    ,Allied Health Sciences,10,1
+646724,3,M,2011,BBA   ,Business Economics,25,1
+646740,5,F,2012,BS    ,Biology,90,1
+646838,3,F,2011,MED   ,Higher Education,25,1
+646916,18,M,2013,BBA   ,Business Economics,30,1
+646919,13,M,2013,BS    ,Political Science,17,1
+646980,9,F,2014,BS    ,Hospitality Tourism Mgt,5,1
+646981,14,F,2014,BA    ,Communication Studies,10,1
+646991,5,M,2014,BA    ,International Relations,60,1
+647040,5,F,2014,BA    ,Communication Studies,3,1
+647044,4,F,2014,BS    ,Exercise Science,25,1
+647080,10,F,2011,BS    ,Behavioral Science,75,1
+647104,4,M,2014,BA    ,History,255,1
+647115,4,F,2014,BS    ,Biomedical Sciences,2,1
+647117,4,F,2013,BA    ,English Language and Lit,15,1
+647156,6,F,2014,BA    ,Theatre,250,1
+647189,11,F,2014,BS    ,Advertising & Public Relations,35,1
+647196,5,F,2013,BA    ,English Language and Lit,50,1
+647204,2,F,2014,BA    ,Broadcasting,5,1
+647227,7,F,2014,BA    ,French,8,1
+647269,15,F,2014,BS    ,Biomedical Sciences,50,1
+647272,3,F,2013,BA    ,International Relations,5,1
+647273,3,F,2014,BA    ,Classical Tradition,3,1
+647305,15,F,2013,BA    ,Mathematics,50,1
+647333,11,F,2013,BS    ,Biomedical Sciences,20,1
+647339,11,M,2012,BS    ,Political Science,50,1
+647378,3,F,2014,BS    ,Natural Resource Management,5,1
+647380,2,F,2014,BA    ,Public and Nonprofit Admin,10,1
+647390,3,M,2014,BBA   ,Finance,50,1
+647472,8,F,2011,BA    ,English Language and Literature,20,1
+647500,7,F,2014,BBA   ,Marketing,5,1
+647518,8,F,2014,BBA   ,International Business,25,1
+647524,2,F,2013,BS    ,Mathematics,20,1
+647527,3,F,2014,BS    ,Biomedical Sciences,3,1
+647529,3,M,2014,BA    ,Mathematics,10,1
+647568,5,F,2014,BA    ,Music,25,1
+647586,3,M,2012,BS    ,Allied Health Sciences,25,1
+648007,4,F,2013,PBCE  ,,25,1
+648017,4,F,2014,BS    ,Psychology,25,1
+649040,16,M,2011,BA    ,Communication Studies,20,1
+649086,11,F,2011,BS    ,Advertising & Public Relations,200,1
+649271,9,F,2012,MS    ,Communications,50,1
+649358,13,M,2012,BSN   ,Nursing,500,1
+649416,19,M,2012,PRCE  ,Sustainable City & Regnl Plan,10,1
+649804,10,F,2011,BME   ,Music,300,1
+650076,9,F,2011,BS    ,Radiation Therapy,30,1
+650184,2,M,2011,BS    ,Health Professions,50,1
+650189,9,M,2011,MSA   ,Accounting,5000,1
+650211,3,F,2011,MBA   ,Business General,100,1
+650264,16,F,2011,BBA   ,Marketing,10,1
+650353,3,F,2011,BS    ,Psychology,25,1
+650363,5,M,2011,BS    ,Physical Education,25,1
+650504,3,F,2011,BBA   ,Management,50,1
+650645,1,F,2011,MSW   ,Social Work,1,1
+659309,5,F,2012,BS    ,Exercise Science,25,1
+659319,12,F,2012,BSN   ,Nursing,150,1
+659345,8,F,2012,BA    ,English Language and Literature,20,1
+663499,4,M,2014,BME   ,Music,5,1
+667140,7,F,2013,MED   ,Higher Education,5,1
+667287,2,F,2012,MPAS  ,Physician Assistant Studies,10,1
+667302,5,F,2012,BS    ,Psychology,615,1
+667329,2,F,2014,BSW   ,Social Work,3,1
+667739,5,F,2011,BS    ,Geology,50,1
+667813,4,M,2011,MBA   ,Business General,20,1
+668058,2,F,2011,BS    ,Liberal Studies,50,1
+668507,9,M,2014,BS    ,Physical Education,5,1
+669284,2,F,2011,BBA   ,Marketing,9,1
+669330,5,F,2011,BA    ,Spanish,25,1
+669368,2,F,2011,BS    ,Athletic Training,5,1
+669453,2,M,2011,BS    ,Hospitality Tourism Mgt,150,1
+669463,9,M,2011,BS    ,Hospitality Tourism Mgt,50,1
+669532,1,M,2012,BS    ,Computer Science,10,1
+669661,4,F,2011,BS    ,Biology,10,1
+669684,1,M,2013,BS    ,GRO Social Studies,5,1
+669774,6,F,2011,BS    ,Health Communication,70,1
+669850,2,F,2012,BS    ,Natural Resource Management,20,1
+670041,9,F,2013,BA    ,English Language and Lit,25,1
+670096,7,M,2012,BS    ,Information Systems,25,1
+670136,2,F,2012,BA    ,Photography,20,1
+670153,7,F,2012,BS    ,History,10,1
+670181,2,M,2012,BS    ,Integrated Science,25,1
+670305,4,F,2012,BS    ,Psychology,50,1
+670322,10,M,2012,BBA   ,Finance,85,1
+670370,2,M,2012,BS    ,Sociology,20,1
+670668,9,F,2013,BA    ,Public Administration,50,1
+670966,3,M,2012,BBA   ,Business Economics,85,1
+670970,40,F,2013,MST   ,Taxation,50,1
+671377,10,F,2012,BS    ,Advertising & Public Relations,20,1
+671916,2,F,2011,BS    ,Political Science,30,1
+671960,8,F,2011,BS    ,Health Science,15,1
+672220,1,M,2011,MPA   ,Public Administration,20,1
+672510,2,M,2014,BSE   ,Engineering,5,1
+672720,7,M,2012,BS    ,Physical Education,1,1
+672742,7,M,2012,BA    ,English Language and Literature,5,1
+672759,4,F,2012,BS    ,Allied Health Sciences,25,1
+672812,4,M,2012,BBA   ,Finance,70,1
+672828,4,M,2012,BA    ,Political Science,20,1
+672919,2,M,2013,BS    ,Physical Education,20,1
+672953,5,F,2012,BS    ,Hospitality Tourism Mgt,5,1
+672974,5,F,2012,BS    ,Exercise Science,100,1
+673019,3,F,2012,BS    ,Hospitality Tourism Mgt,100,1
+673084,5,M,2013,BA    ,GRO Social Studies,100,1
+673095,16,F,2012,BBA   ,Marketing,40,1
+673134,6,F,2012,BA    ,Dance,30,1
+673160,2,M,2012,BBA   ,Accounting,20,1
+673267,1,M,2012,BS    ,Mathematics,15,1
+673328,2,M,2012,BBA   ,Finance,20,1
+673355,5,F,2012,BFA   ,Art,25,1
+674267,10,F,2014,BS    ,Biology,10,1
+675060,7,M,2013,MED   ,Higher Education,25,1
+675154,2,M,2012,BA    ,International Relations,25,1
+675214,4,M,2012,BA    ,Film and Video,25,1
+675404,2,M,2012,MSA   ,Accounting,10,1
+675493,6,F,2013,BSN   ,Nursing,25,1
+675504,1,M,2013,BS    ,Biology,5,1
+675755,20,F,2014,MPA   ,Public Administration,280,1
+675805,2,M,2012,MSA   ,Accounting,10,1
+676768,5,F,2012,BS    ,Liberal Studies,200,1
+676847,3,F,2012,BS    ,Psychology,5,1
+676987,1,F,2012,BA    ,Communication Studies,50,1
+677041,2,F,2012,BA    ,English Language and Literature,10,1
+677102,2,F,2012,MPA   ,Public Administration,2,1
+677262,4,M,2012,BBA   ,Accounting,50,1
+677312,7,M,2012,MPA   ,Public Administration,12,1
+677350,2,F,2012,MED   ,Higher Education,25,1
+677477,6,F,2013,BBA   ,Marketing,25,1
+677479,5,F,2013,BA    ,Public and Nonprofit Admin,25,1
+685354,2,F,2014,BS    ,Exercise Science,10,1
+687600,6,F,2013,BBA   ,Marketing,25,1
+687603,3,M,2014,BA    ,Liberal Studies,10,1
+691227,5,F,2014,BBA   ,Accounting,10,1
+691322,1,M,2012,BBA   ,Finance,100,1
+691503,2,F,2012,BBA   ,Accounting,5,1
+691657,1,F,2012,MSW   ,Social Work,20,1
+692113,7,F,2014,BSW   ,Social Work,5,1
+692381,4,F,2014,BA    ,Criminal Justice,5,1
+692641,3,M,2012,MS    ,Cell and Molecular Biology,50,1
+693337,2,F,2014,BS    ,Comp Sci & Arts for Teaching,2.96,1
+693358,3,M,2014,BS    ,GRO Social Studies,5,1
+693411,6,F,2012,BS    ,Geology,100,1
+693468,5,M,2013,BS    ,Physics,50,1
+693511,4,F,2014,BS    ,Integrated Science,2,1
+693623,3,F,2013,BSN   ,Nursing,110,1
+693666,5,M,2013,BS    ,Biopsychology,25,1
+693673,3,M,2013,BS    ,Theatre,250,1
+693711,4,F,2014,BS    ,Comp Sci & Arts for Teaching,10,1
+693791,2,F,2013,BS    ,Biomedical Sciences,50,1
+693804,2,F,2012,BS    ,Health Professions,20,1
+693821,6,F,2013,BS    ,Occup Safety/Health Management,10,1
+693927,3,F,2014,BBA   ,Management,10,1
+693958,6,F,2012,BS    ,GRO Social Studies,25,1
+693983,4,M,2012,BBA   ,Finance,25,1
+693995,2,F,2012,BS    ,Communication Studies,5,1
+694070,7,F,2013,BS    ,Physical Education,50,1
+694080,4,F,2014,BA    ,Spanish,10,1
+694093,5,F,2013,BS    ,Biomedical Sciences,10,1
+694163,4,F,2013,BA    ,English Language and Lit,7.5,1
+694207,2,F,2014,BA    ,Comp Sci & Arts for Teaching,10,1
+694256,3,F,2013,BS    ,Biology,10,1
+694431,4,F,2013,MSW   ,Social Work,10,1
+694597,3,F,2012,BA    ,Criminal Justice,10,1
+695527,11,M,2013,MBA   ,Business General,50,1
+695825,10,M,2012,MBA   ,Business General,200,1
+695880,1,M,2012,MBA   ,Business General,50,1
+696017,1,F,2014,BS    ,Comp Sci & Arts for Teaching,5,1
+696037,2,F,2014,MED   ,Literacy Studies,3,1
+697419,5,M,2013,BS    ,Mathematics,20,1
+697426,5,F,2013,BA    ,French,10,1
+697452,2,F,2013,BS    ,Photography,10,1
+697503,4,M,2014,BA    ,History,10,1
+697648,4,M,2013,BS    ,Biology,50,1
+697737,2,M,2014,BS    ,Integrated Science,2,1
+697777,1,F,2013,BS    ,Physical Education,15,1
+697785,1,M,2013,BBA   ,Finance,75,1
+697837,4,F,2013,BS    ,Health Professions,25,1
+697902,2,M,2014,BS    ,Exercise Science,5,1
+697941,9,M,2013,BBA   ,Finance,10,1
+697967,3,M,2013,BBA   ,Supply Chain Management,25,1
+697976,5,M,2013,BS    ,Geology,50,1
+698018,5,F,2014,BBA   ,Finance,10,1
+698028,3,M,2014,BS    ,Geography,10,1
+698046,7,M,2013,BA    ,Women & Gender Studies,10,1
+698070,5,M,2013,BBA   ,Finance,85,1
+698074,4,F,2013,MSW   ,Social Work,10,1
+698168,1,F,2014,BS    ,Psychology,4,1
+698202,3,F,2013,BA    ,Writing,15,1
+698216,2,F,2014,BS    ,Biomedical Sciences,5,1
+698276,6,F,2013,MSA   ,Accounting,30,1
+698300,3,F,2014,BA    ,Comp Sci & Arts for Teaching,3,1
+698308,1,M,2013,BA    ,Writing,1,1
+698330,1,M,2013,BFA   ,Studio Art,10,1
+698333,4,F,2013,BA    ,Criminal Justice,10,1
+698373,4,M,2013,BBA   ,Accounting,5,1
+698394,2,F,2014,BA    ,Film and Video,5,1
+698419,6,F,2013,BA    ,Communication Studies,10,1
+698621,6,F,2013,BS    ,Liberal Studies,10,1
+698629,6,F,2013,BS    ,Political Science,10,1
+698631,6,F,2013,BA    ,Writing,10,1
+698737,6,F,2014,MS    ,Biostatistics,34,1
+698746,1,F,2014,BS    ,Statistics,10,1
+698842,8,F,2014,BA    ,Anthropology,50,1
+699803,4,M,2013,BS    ,Psychology,20,1
+699835,3,F,2014,BS    ,Athletic Training,100,1
+699845,7,M,2014,BS    ,Information Systems,10,1
+699950,1,F,2014,BS    ,Exercise Science,10,1
+700006,3,M,2014,MSA   ,Accounting,25,1
+700248,5,M,2014,BA    ,Communication Studies,3,1
+700498,3,F,2014,MSW   ,Social Work,2,1
+701375,6,F,2014,BS    ,Biomedical Sciences,10,1
+702217,13,M,2013,MST   ,Taxation,50,1
+702254,2,F,2013,MED   ,Higher Education,50,1
+702385,2,F,2013,BA    ,Women & Gender Studies,30,1
+702455,3,M,2013,BBA   ,Marketing,4,1
+702460,5,F,2013,BS    ,Psychology,5,1
+702477,2,F,2013,BS    ,History,45,1
+702481,3,F,2013,BS    ,Biomedical Sciences,25,1
+702519,5,F,2013,BS    ,Public and Nonprofit Admin,25,1
+702771,2,F,2013,BS    ,Psychology,25,1
+711086,2,F,2013,BS    ,Public and Nonprofit Admin,5,1
+717353,6,F,2014,BS    ,Public and Nonprofit Admin,25,1
+717409,6,F,2014,BS    ,Political Science,4,1
+718053,5,F,2014,BS    ,Biomedical Sciences,25,1
+718057,3,F,2013,BS    ,Communication Studies,25,1
+718089,5,F,2013,BA    ,Psychology,25,1
+718091,4,F,2014,BSW   ,Social Work,50,1
+718123,8,M,2014,BBA   ,Management,25,1
+718185,4,F,2014,BA    ,Spanish,25,1
+718189,3,F,2013,BA    ,International Relations,25,1
+718192,3,M,2013,BA    ,International Relations,25,1
+718193,4,F,2013,BA    ,International Relations,25,1
+718278,4,F,2014,BA    ,Broadcasting,25,1
+718364,2,F,2013,BBA   ,Management,150,1
+718575,1,M,2013,BBA   ,Accounting,85,1
+718678,1,M,2013,BBA   ,Finance,85,1
+719084,3,F,2014,BS    ,Allied Health Sciences,150,1
+719248,2,F,2014,BS    ,Biomedical Sciences,5,1
+719266,2,M,2014,BS    ,Computer Science,20,1
+719270,2,F,2014,BS    ,Liberal Studies,2,1
+719273,1,M,2014,BS    ,Chemistry,5,1
+719285,1,M,2013,BS    ,Communication Studies,10,1
+719296,2,M,2014,BBA   ,Management,1,1
+719340,1,F,2013,BBA   ,Finance,10,1
+719353,1,M,2013,BS    ,Biomedical Sciences,10,1
+719354,6,F,2014,BS    ,Communication Studies,10,1
+719363,4,F,2014,BSW   ,Social Work,10,1
+719384,1,M,2014,BS    ,Film and Video,2,1
+719463,2,F,2014,BA    ,Hospitality Tourism Mgt,1,1
+719467,1,M,2014,BS    ,Criminal Justice,1,1
+719475,2,F,2014,BA    ,Hospitality Tourism Mgt,10,1
+719480,1,F,2013,BS    ,Psychology,10,1
+719537,3,F,2014,BS    ,GRO Social Studies,1,1
+719539,1,M,2013,BS    ,Computer Science,10,1
+719551,3,F,2014,BS    ,Exercise Science,3,1
+719555,1,F,2014,BA    ,Communication Studies,20,1
+719566,1,F,2013,BA    ,Advertising & Public Relations,5,1
+719573,5,F,2014,BSW   ,Social Work,10,1
+719578,4,F,2013,BS    ,Psychology,5,1
+719591,3,M,2013,BBA   ,Accounting,10,1
+719611,2,M,2013,BS    ,Allied Health Sciences,25,1
+719620,2,M,2014,BS    ,GRO Social Studies,10,1
+719646,2,F,2014,BS    ,Exercise Science,5,1
+719688,2,F,2013,BS    ,Biology,10,1
+719694,1,M,2013,BS    ,Physical Education,5,1
+719710,3,F,2014,BBA   ,International Business,8,1
+719713,4,M,2014,BSE   ,Mechanical Engineering,10,1
+719811,3,M,2014,BS    ,Exercise Science,5,1
+719824,1,F,2013,BA    ,Photography,1,1
+719840,2,F,2014,BA    ,Legal Studies,5,1
+719872,1,M,2013,BS    ,Psychology,5,1
+719873,2,F,2013,BS    ,Natural Resource Management,10,1
+719876,3,F,2014,BS    ,Anthropology,5,1
+719877,5,F,2014,BA    ,GRO Social Studies,2,1
+719942,1,M,2013,BS    ,Occupational Safety/Health Mgt,5,1
+719963,1,F,2013,BS    ,Allied Health Sciences,10,1
+719969,2,F,2014,BA    ,Hospitality Tourism Mgt,5,1
+720009,5,F,2014,BS    ,Information Systems,10,1
+720010,1,F,2013,BA    ,Writing,10,1
+720015,2,F,2014,BS    ,Exercise Science,1,1
+720030,1,F,2013,BA    ,Psychology,5,1
+720050,2,F,2014,BA    ,English Language and Lit,2,1
+720052,1,M,2014,BBA   ,Marketing,2,1
+720055,7,M,2014,BS    ,Biomedical Sciences,10,1
+720103,2,M,2014,BBA   ,Supply Chain Management,10,1
+721070,1,F,2014,BS    ,Broadcasting,1.5,1
+721071,1,F,2013,BFA   ,Studio Art,10,1
+721072,4,F,2013,BBA   ,Management,25,1
+721073,1,F,2013,BA    ,International Relations,2,1
+721074,3,F,2013,BA    ,Art History,10,1
+721075,1,M,2013,BBA   ,Accounting,10,1
+721078,1,F,2013,BBA   ,Finance,10,1
+721079,1,M,2013,BBA   ,Marketing,10,1
+721081,1,M,2013,BS    ,Criminal Justice,10,1
+721082,1,M,2013,BA    ,Film and Video,10,1
+721083,2,F,2013,BS    ,Studio Art,10,1
+721084,2,M,2014,BBA   ,Accounting,10,1
+721085,1,F,2013,BS    ,Liberal Studies,10,1
+721086,5,F,2014,BS    ,Allied Health Sciences,10,1
+722022,3,M,2013,BS    ,Criminal Justice,20,1
+722045,4,M,2013,BBA   ,Accounting,10,1
+722166,3,F,2013,BA    ,English Language and Literature,10,1
+722382,1,F,2014,MED   ,Higher Education,5,1
+722741,3,F,2014,BS    ,Communication Studies,250,1
+723152,5,F,2014,BSW   ,Social Work,3,1
+723169,3,F,2014,BS    ,History,10,1
+723194,6,M,2014,BBA   ,Business General,10,1
+723274,6,F,2014,BS    ,Public and Nonprofit Admin,10,1
+723352,4,M,2014,BBA   ,Marketing,3,1
+723354,5,M,2014,BBA   ,Management,1,1
+723380,2,F,2014,BS    ,Hospitality Tourism Mgt,5,1
+723405,2,M,2014,BS    ,Allied Health Sciences,10,1
+723414,4,F,2014,BS    ,Allied Health Sciences,5,1
+723415,4,M,2014,BBA   ,Accounting,4,1
+723435,4,F,2014,BS    ,Diagnostic Medical Sonography,20,1
+723507,1,F,2014,BBA   ,Management,5,1
+723525,2,M,2014,BBA   ,Finance,20,1
+723549,8,F,2014,BA    ,Advertising & Public Relations,5,1
+723563,3,F,2014,BSW   ,Social Work,2,1
+723617,3,F,2014,BS    ,Therapeutic Recreation,2.49,1
+723640,3,M,2014,BS    ,Exercise Science,10,1
+723673,2,M,2014,BS    ,Exercise Science,1,1
+723686,3,F,2014,BS    ,Biology,1,1
+723689,3,M,2014,BBA   ,Supply Chain Management,2,1
+723750,2,M,2014,BFA   ,Studio Art,10,1
+723751,5,F,2014,BA    ,Communication Studies,5,1
+723787,2,F,2014,BS    ,Communication Studies,0.29,1
+723800,5,F,2014,BS    ,Advertising & Public Relations,10,1
+723815,2,F,2014,BS    ,Biomedical Sciences,5,1
+723861,3,F,2014,BSW   ,Social Work,5,1
+723932,3,M,2014,BS    ,Computer Science,10,1
+723942,4,M,2014,BS    ,Criminal Justice,2,1
+723943,4,F,2014,BS    ,Film and Video,1,1
+723944,2,M,2014,BS    ,Computer Science,10,1
+723948,2,F,2014,BA    ,Classical Tradition,10,1
+723950,6,F,2014,BS    ,Psychology,2,1
+723986,4,F,2014,BA    ,International Relations,1,1
+724014,1,F,2014,BS    ,Psychology,5,1
+724020,5,F,2014,BS    ,Advertising & Public Relations,1,1
+724022,5,F,2014,BS    ,Public and Nonprofit Admin,10,1
+724023,2,F,2014,BS    ,Biomedical Sciences,10,1
+724026,1,F,2014,BS    ,Criminal Justice,5,1
+724051,2,F,2014,BS    ,History,5,1
+724068,6,M,2014,BS    ,Liberal Studies,25,1
+724095,1,F,2014,BS    ,Communication Studies,1,1
+724116,7,F,2014,BBA   ,Management,10,1
+724133,2,M,2014,BBA   ,Marketing,2,1
+724172,5,M,2014,MED   ,Higher Education,25,1
+724173,3,F,2014,BSN   ,Nursing - RN,10,1
+724190,6,M,2014,MSW   ,Social Work,5,1
+724194,2,F,2014,MED   ,Educational Leadership,10,1
+724201,2,M,2014,BSW   ,Social Work,5,1
+724230,4,M,2014,BBA   ,Business Economics,10,1
+724231,1,F,2014,MPA   ,Public Administration,2,1
+724243,3,F,2014,BA    ,Liberal Studies,10,1
+724244,2,F,2014,BA    ,Liberal Studies,10,1
+724262,5,M,2014,BS    ,Physical Education,5,1
+724280,4,F,2014,MSW   ,Social Work,15,1
+724290,2,F,2014,BBA   ,Accounting,5,1
+724301,3,M,2014,BS    ,Hospitality Tourism Mgt,50,1
+724304,2,F,2014,BSN   ,Nursing - RN,10,1
+724352,6,F,2014,MED   ,Higher Education,5,1
+724359,3,M,2014,BS    ,Psychology,10,1
+724361,3,F,2014,BS    ,Therapeutic Recreation,0.57,1
+724363,3,F,2014,BS    ,Psychology,5,1
+724389,1,M,2014,BSW   ,Social Work,10,1
+724395,8,F,2014,BA    ,Criminal Justice,1,1
+724404,4,F,2014,BBA   ,Accounting,5,1
+724406,2,F,2014,BS    ,Psychology,10,1
+724410,4,M,2014,BBA   ,Finance,30,1
+724422,2,F,2014,BS    ,Radiologic & Imaging Sciences,1.75,1
+724447,3,F,2014,BS    ,Advertising & Public Relations,10,1
+724455,2,M,2014,BS    ,Biomedical Sciences,10,1
+724463,2,F,2014,BS    ,Biology,5,1
+724479,3,M,2014,BBA   ,Management,100,1
+724494,2,F,2014,BS    ,Hospitality Tourism Mgt,10,1
+724505,2,F,2014,BS    ,Medical Laboratory Science,1,1
+724512,1,M,2014,BS    ,Biomedical Sciences,1,1
+724532,2,F,2014,BS    ,Biology,5,1
+724536,2,F,2014,BS    ,Biomedical Sciences,1,1
+724538,4,F,2014,BSW   ,Social Work,1,1
+724563,5,M,2014,BS    ,Mathematics,1,1
+724569,2,M,2014,BS    ,Biomedical Sciences,5,1
+724597,2,F,2014,BSW   ,Social Work,1,1
+724601,3,M,2014,BS    ,Criminal Justice,0.27,1
+724604,2,F,2014,BSW   ,Social Work,5,1
+724631,6,F,2014,BS    ,Psychology,10,1
+724653,2,M,2014,BS    ,Computer Science,10,1
+724654,2,F,2014,BS    ,Allied Health Sciences,1,1
+724698,5,M,2014,BBA   ,Management,5,1
+724699,2,F,2014,BS    ,Allied Health Sciences,10,1
+724701,2,F,2014,BBA   ,Accounting,10,1
+724709,3,F,2014,BS    ,Biomedical Sciences,10,1
+724718,3,F,2014,BS    ,Legal Studies,10,1
+724735,2,F,2014,BS    ,Criminal Justice,20,1
+724739,2,F,2014,BA    ,Public and Nonprofit Admin,1,1
+724748,4,F,2014,BS    ,Biomedical Sciences,1,1
+724751,5,M,2014,BS    ,Information Systems,10,1
+724756,3,F,2014,BS    ,Advertising & Public Relations,10,1
+724797,3,M,2014,BS    ,Political Science,10,1
+724826,4,F,2014,BS    ,Public and Nonprofit Admin,10,1
+724837,3,F,2014,BS    ,Allied Health Sciences,1,1
+724964,2,F,2014,BA    ,Psychology,1,1
+724980,2,F,2014,BSW   ,Social Work,10,1
+724983,3,F,2014,BS    ,Allied Health Sciences,2,1
+724991,2,M,2014,BA    ,Music,20,1
+725006,4,F,2014,BS    ,Public and Nonprofit Admin,10,1
+725041,2,F,2014,BS    ,Allied Health Sciences,3,1
+725051,2,M,2014,BS    ,Advertising & Public Relations,5,1
+725086,3,F,2014,BS    ,Allied Health Sciences,10,1
+725088,2,F,2014,BA    ,Psychology,5,1
+725105,5,M,2014,BA    ,English Language and Literature,5,1
+725113,2,F,2014,BS    ,Communication Studies,2,1
+725131,4,F,2014,BBA   ,Marketing,1,1
+725136,3,F,2014,BS    ,Allied Health Sciences,10,1
+725155,3,M,2014,BS    ,Cell and Molecular Biology,1,1
+725160,3,M,2014,BA    ,International Relations,0.5,1
+725163,3,F,2014,BS    ,Advertising & Public Relations,10,1
+725175,2,M,2014,BSW   ,Social Work,10,1
+725176,4,F,2014,BA    ,Communication Studies,10,1
+725188,4,F,2014,BA    ,Psychology,10,1
+725192,4,F,2014,BS    ,Exercise Science,10,1
+725193,2,M,2014,BBA   ,Finance,3,1
+725195,2,F,2014,BS    ,Exercise Science,5,1
+725207,3,F,2014,BBA   ,Management,3,1
+725210,4,F,2014,BS    ,Advertising & Public Relations,10,1
+725216,1,M,2014,DPT   ,Physical Therapy,2,1
+725218,2,M,2014,BA    ,Criminal Justice,5,1
+725222,4,M,2014,BS    ,Communication Studies,3,1
+725235,2,F,2014,DPT   ,Physical Therapy,1,1
+725242,4,M,2014,BS    ,Hospitality Tourism Mgt,5,1
+725246,3,F,2014,BA    ,Economics,1,1
+725253,4,F,2014,BS    ,Communication Studies,1,1
+725261,3,F,2014,BSW   ,Social Work,5,1
+725293,2,M,2014,BS    ,Hospitality Tourism Mgt,5,1
+725304,6,M,2014,BS    ,Physical Education,20,1
+725308,2,M,2014,MS    ,Cell and Molecular Biology,10,1
+725334,2,M,2014,BBA   ,Management,1,1
+725349,4,M,2014,BS    ,Allied Health Sciences,5,1
+725359,3,M,2014,BS    ,Advertising & Public Relations,1,1
+725391,2,F,2014,BS    ,Biomedical Sciences,6,1
+725436,4,F,2014,BSW   ,Social Work,10,1
+725467,2,F,2014,BSW   ,Social Work,2,1
+725475,2,M,2014,MS    ,Cell and Molecular Biology,3,1
+725481,2,F,2014,BS    ,Medical Laboratory Science,0.5,1
+725484,2,M,2014,MSW   ,Social Work,5,1
+725486,1,F,2014,BSW   ,Social Work,10,1
+725491,6,F,2014,MED   ,Literacy Studies,5,1
+725496,2,M,2014,MED   ,Higher Education,5,1
+725505,3,F,2014,BSW   ,Social Work,3,1
+725507,4,M,2014,MSE   ,Engineering,5,1
+725509,3,F,2014,BS    ,Geography,25,1
+725510,2,F,2014,MED   ,Literacy Studies,5,1
+725511,4,F,2014,MED   ,Literacy Studies,10,1
+727273,2,F,2014,BS    ,GRO Social Studies,2,1
